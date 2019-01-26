@@ -1,0 +1,609 @@
+Timestamp,Age,Gender,Male,Female,Country,state,self_employed,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence,comments
+8/27/14 11:29,37,F,0,1,United States,IL,NA,0,1,1,25-Jun,No,Yes,1,0,0,1,Yes,1,No,No,Some of them,1,No,Maybe,1,No,NA
+8/27/14 11:30,31,M,1,0,United States,TX,NA,0,0,0,100-500,Yes,Yes,1,0,0,0,Don't know,0,No,No,Some of them,1,Yes,Yes,0,No,NA
+8/27/14 11:31,33,M,1,0,United States,TN,NA,1,0,1,25-Jun,No,Yes,1,0,0,0,Don't know,0,No,No,Yes,1,No,Maybe,0,No,NA
+8/27/14 11:31,35,F,0,1,United States,MI,NA,1,1,1,5-Jan,Yes,Yes,0,0,0,0,No,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/27/14 11:32,42,F,0,1,United States,IL,NA,1,1,1,100-500,No,Yes,1,1,0,0,No,0,Maybe,No,Yes,1,No,Maybe,0,No,NA
+8/27/14 11:32,31,M,1,0,United States,OH,NA,0,1,1,25-Jun,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 11:33,36,M,1,0,United States,CT,NA,1,0,0,500-1000,No,Yes,0,0,0,0,Don't know,0,No,No,Yes,1,No,No,0,No,I'm not on my company's health insurance which could be part of the reason I answered Don't know to so many questions.
+8/27/14 11:34,29,F,0,1,United States,IL,NA,1,1,1,26-100,No,Yes,1,0,0,0,Don't know,1,No,No,Yes,0,Maybe,Maybe,0,No,I have chronic low-level neurological issues that have mental health side effects. One of my supervisors has also experienced similar neurological problems so I feel more comfortable being open about my issues than I would with someone without that experience. 
+8/27/14 11:34,32,M,1,0,United States,TN,NA,0,1,1,25-Jun,No,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,1,No,No,0,No,NA
+8/27/14 11:34,46,M,1,0,United States,MD,Yes,1,0,1,5-Jan,Yes,Yes,1,0,1,0,Yes,1,No,No,Yes,1,No,Yes,1,Yes,NA
+8/27/14 11:35,29,M,1,0,United States,NY,No,1,1,1,100-500,No,Yes,1,1,0,0,No,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 11:35,31,M,1,0,United States,NC,Yes,0,0,0,5-Jan,Yes,Yes,0,0,0,0,Yes,0,No,No,Some of them,0,No,Maybe,1,No,NA
+8/27/14 11:35,46,M,1,0,United States,MA,No,0,1,1,26-100,Yes,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,1,No,Maybe,0,No,NA
+8/27/14 11:36,33,M,1,0,United States,CA,No,1,1,1,26-100,No,Yes,1,0,0,1,Yes,0,No,No,Yes,1,No,Yes,0,No,Relatively new job. Ask again later
+8/27/14 11:37,33,M,1,0,United States,TN,No,0,0,0,5-Jan,No,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/27/14 11:37,35,F,0,1,United States,CA,No,1,1,1,25-Jun,Yes,Yes,1,1,0,0,Don't know,0,No,No,Yes,1,Maybe,Maybe,1,No,NA
+8/27/14 11:38,34,M,1,0,United States,OH,No,0,1,1,26-100,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,No,No,0,No,NA
+8/27/14 11:38,31,M,1,0,United States,PA,Yes,1,0,1,5-Jan,Yes,Yes,0,1,0,0,Don't know,0,Yes,No,No,0,No,No,0,Yes,NA
+8/27/14 11:39,42,M,1,0,United States,WA,No,1,1,1,26-100,Yes,Yes,1,1,1,1,Yes,1,Maybe,No,Some of them,0,Maybe,Yes,0,No,I selected my current employer based on its policies about self care and the quality of their overall health and wellness benefits. I still have residual caution from previous employers who ranged from ambivalent to indifferent to actively hostile regarding mental health concerns.
+8/27/14 11:40,40,F,0,1,United States,WI,No,0,1,1,5-Jan,No,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,1,No,NA
+8/27/14 11:41,27,M,1,0,United States,NY,No,0,1,1,25-Jun,No,Yes,0,1,0,0,Don't know,1,No,No,Yes,1,Maybe,Maybe,0,No,NA
+8/27/14 11:42,50,M,1,0,United States,IN,No,0,0,0,100-500,No,Yes,1,1,0,0,Don't know,0,No,No,Some of them,1,No,Maybe,0,No,NA
+8/27/14 11:42,35,M,1,0,United States,TX,No,0,1,1,More than 1000,Yes,Yes,1,1,0,1,Yes,1,No,No,Yes,1,Maybe,Maybe,1,No,NA
+8/27/14 11:42,35,M,1,0,United States,MI,No,0,0,0,More than 1000,Yes,Yes,1,0,0,1,Don't know,0,Yes,Yes,Some of them,0,No,Maybe,0,No,NA
+8/27/14 11:43,30,M,1,0,United States,IN,No,0,1,1,26-100,No,Yes,0,0,0,0,Don't know,0,No,No,No,0,No,Maybe,0,No,NA
+8/27/14 11:43,38,F,0,1,United States,TX,No,1,1,1,26-100,No,Yes,1,1,0,1,Yes,1,No,No,Some of them,1,No,No,1,No,Our health plan has covered my psychotherapy and my antidepressant medication. My manager has been aware but discreet throughout. I did get negative reviews when my depression was trashing my delivery but y'know I wasn't delivering.
+8/27/14 11:43,34,M,1,0,United States,TN,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,0,No,No,Yes,1,Maybe,Yes,0,No,NA
+8/27/14 11:44,30,M,1,0,United States,IL,No,1,1,1,26-100,No,Yes,1,0,0,0,Don't know,0,Maybe,No,Some of them,1,No,No,0,No,I just started a new job last week hence a lot of don't know's
+8/27/14 11:44,22,M,1,0,United States,TX,No,1,1,1,25-Jun,No,Yes,0,1,0,0,Yes,0,Maybe,No,No,0,No,Maybe,0,No,NA
+8/27/14 11:45,33,M,1,0,United States,UT,No,0,0,0,100-500,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,Maybe,Maybe,0,No,NA
+8/27/14 11:45,31,M,1,0,United States,NA,No,0,0,0,100-500,Yes,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,Maybe,Maybe,0,No,NA
+8/27/14 11:45,32,M,1,0,United States,TN,No,0,0,0,5-Jan,Yes,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,1,No,No,0,No,NA
+8/27/14 11:46,27,O,0,0,United States,NY,No,1,1,1,26-100,No,Yes,1,1,0,0,Yes,0,Maybe,No,No,0,No,No,0,No,NA
+8/27/14 11:46,32,M,1,0,United States,TN,No,1,0,0,25-Jun,Yes,Yes,0,0,0,0,Don't know,1,No,No,Yes,1,No,No,1,No,NA
+8/27/14 11:47,24,M,1,0,United States,NY,No,1,1,1,26-100,Yes,Yes,0,0,0,0,Don't know,0,No,Maybe,Some of them,1,Yes,Yes,0,No,NA
+8/27/14 11:51,40,M,1,0,United States,CA,No,1,0,1,More than 1000,Yes,Yes,1,1,1,1,Don't know,0,Yes,Maybe,Some of them,0,No,No,0,Yes,NA
+8/27/14 11:52,36,M,1,0,United States,TX,No,0,0,1,100-500,Yes,Yes,1,0,0,1,Don't know,0,Maybe,No,Some of them,0,Maybe,Yes,1,No,NA
+8/27/14 11:52,34,M,1,0,United States,NY,Yes,0,0,1,5-Jan,Yes,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 11:54,23,O,0,0,United States,MA,No,0,0,1,More than 1000,No,Yes,1,1,0,0,Yes,0,Maybe,No,Yes,1,No,No,0,No,NA
+8/27/14 11:56,33,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,0,0,1,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,1,No,NA
+8/27/14 11:57,25,M,1,0,United States,WA,No,0,0,0,More than 1000,Yes,Yes,1,1,1,1,Don't know,0,No,No,Yes,1,Maybe,Yes,1,No,NA
+8/27/14 11:57,31,M,1,0,United States,WA,Yes,1,0,1,5-Jan,Yes,Yes,0,0,0,0,Yes,0,No,No,Yes,1,Maybe,Maybe,1,No,NA
+8/27/14 11:59,32,M,1,0,United States,UT,No,1,1,1,26-100,Yes,Yes,0,0,0,0,Don't know,0,Yes,No,Some of them,0,No,Yes,0,No,NA
+8/27/14 12:01,38,M,1,0,United States,NY,No,1,0,1,100-500,Yes,Yes,1,1,0,1,Don't know,0,No,No,Yes,0,Maybe,Maybe,1,No,NA
+8/27/14 12:03,27,F,0,1,United States,NY,Yes,0,1,1,5-Jan,Yes,Yes,1,1,1,1,Yes,1,Maybe,Maybe,Some of them,1,No,Maybe,1,No,NA
+8/27/14 12:05,33,M,1,0,United States,CA,No,1,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,0,Yes,No,No,0,No,Maybe,0,No,NA
+8/27/14 12:05,31,M,1,0,United States,TX,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,Maybe,Maybe,0,No,NA
+8/27/14 12:10,34,F,0,1,United States,OR,No,1,1,1,500-1000,Yes,Yes,1,0,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,No,0,No,NA
+8/27/14 12:11,29,F,0,1,United States,FL,No,0,1,1,26-100,No,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,Yes,NA
+8/27/14 12:11,32,M,1,0,United States,IL,No,0,0,0,500-1000,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,No,No,0,No,NA
+8/27/14 12:12,31,M,1,0,United States,NY,No,0,0,0,500-1000,No,Yes,1,1,1,1,Yes,1,No,No,Some of them,1,No,No,1,No,NA
+8/27/14 12:13,40,M,1,0,United States,TX,No,0,1,1,26-100,No,Yes,0,1,0,0,Yes,0,No,No,Yes,1,Yes,Yes,0,No,NA
+8/27/14 12:14,34,M,1,0,United States,OH,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,1,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 12:15,29,M,1,0,United States,MN,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,No,No,Yes,1,Maybe,Maybe,0,No,NA
+8/27/14 12:16,24,M,1,0,United States,MO,No,1,0,1,26-100,No,Yes,0,0,0,0,Don't know,1,Maybe,Maybe,Some of them,0,No,Maybe,0,No,NA
+8/27/14 12:18,33,M,1,0,United States,AZ,No,0,1,1,25-Jun,No,Yes,0,1,0,0,Don't know,1,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 12:18,30,M,1,0,United States,IN,No,0,1,1,5-Jan,No,Yes,0,1,0,0,Yes,1,No,No,Yes,1,Maybe,Maybe,1,No,NA
+8/27/14 12:18,44,F,0,1,United States,MA,No,0,0,0,100-500,No,Yes,1,0,0,0,Don't know,0,Maybe,Maybe,No,0,No,No,0,No,NA
+8/27/14 12:19,25,M,1,0,United States,NY,No,1,0,0,26-100,No,Yes,0,0,0,0,Don't know,1,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 12:20,33,M,1,0,United States,WI,No,1,1,1,26-100,Yes,Yes,1,1,1,1,Yes,1,No,No,Some of them,1,Maybe,Maybe,1,No,NA
+8/27/14 12:22,29,M,1,0,United States,NY,No,0,0,0,More than 1000,No,Yes,1,0,1,0,Don't know,1,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 12:23,35,M,1,0,United States,MO,No,1,0,1,25-Jun,No,Yes,1,0,0,0,Yes,1,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 12:23,35,M,1,0,United States,OR,No,1,1,1,26-100,Yes,Yes,0,0,0,0,Don't know,1,No,No,Some of them,1,No,Maybe,0,No,I've seen negative consequences towards mental health conditions in previous workplaces.Working remote is empowering in this way.
+8/27/14 12:28,34,M,1,0,United States,TN,No,1,0,0,25-Jun,Yes,Yes,1,0,0,0,Don't know,0,Maybe,No,No,0,No,No,0,No,NA
+8/27/14 12:28,32,M,1,0,United States,WA,No,0,1,1,26-100,No,Yes,1,0,1,1,Yes,0,Maybe,No,Some of them,1,No,Maybe,1,No,NA
+8/27/14 12:29,22,M,1,0,United States,NY,No,0,1,1,500-1000,No,Yes,1,1,0,0,Yes,0,Yes,No,No,0,No,Yes,0,No,NA
+8/27/14 12:31,28,M,1,0,United States,CA,No,0,1,1,26-100,No,Yes,1,1,1,1,Yes,1,No,No,Some of them,0,No,Maybe,1,No,NA
+8/27/14 12:31,45,M,1,0,United States,MO,No,1,1,1,25-Jun,Yes,Yes,1,1,0,1,Yes,1,No,No,Yes,1,Yes,Yes,1,No,NA
+8/27/14 12:31,32,M,1,0,United States,NY,No,0,0,0,100-500,No,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 12:31,28,M,1,0,United States,TX,No,0,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 12:31,18,M,1,0,United States,CT,No,0,1,1,5-Jan,Yes,Yes,0,0,0,0,Yes,1,No,No,Some of them,0,No,No,0,No,NA
+8/27/14 12:32,35,M,1,0,United States,CO,No,0,0,0,26-100,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,Maybe,Maybe,0,No,NA
+8/27/14 12:32,29,M,1,0,United States,GA,No,0,0,0,More than 1000,No,Yes,1,1,0,1,Don't know,0,Yes,Yes,No,0,No,No,0,No,NA
+8/27/14 12:33,25,M,1,0,United States,DC,No,0,0,0,26-100,Yes,Yes,0,0,0,0,Don't know,1,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 12:33,33,M,1,0,United States,MN,No,1,1,1,25-Jun,Yes,Yes,0,0,0,0,Yes,1,No,No,Yes,1,No,Maybe,1,No,NA
+8/27/14 12:33,36,M,1,0,United States,WA,No,0,0,1,25-Jun,No,Yes,1,0,0,0,Yes,0,Maybe,No,No,0,No,No,0,No,NA
+8/27/14 12:34,27,M,1,0,United States,WA,No,1,0,0,500-1000,No,Yes,1,0,1,1,Yes,0,Yes,No,Some of them,0,No,Yes,0,No,NA
+8/27/14 12:34,32,M,1,0,United States,OR,No,0,1,1,100-500,No,Yes,1,1,0,1,Yes,0,Yes,No,No,1,No,No,0,No,NA
+8/27/14 12:34,33,M,1,0,United States,IL,No,1,1,1,More than 1000,No,Yes,1,1,0,0,Don't know,1,Maybe,No,Yes,0,No,Yes,0,No,NA
+8/27/14 12:35,32,M,1,0,United States,CA,No,0,0,1,5-Jan,Yes,Yes,0,1,0,0,Don't know,0,Maybe,No,Yes,0,No,Yes,0,No,NA
+8/27/14 12:36,27,M,1,0,United States,NE,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,No,No,Yes,1,Maybe,Maybe,0,No,NA
+8/27/14 12:37,39,M,1,0,United States,IA,No,0,1,1,More than 1000,No,Yes,1,0,0,0,Don't know,1,No,No,Yes,1,No,No,0,No,NA
+8/27/14 12:37,29,F,0,1,United States,MD,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,1,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 12:38,38,M,1,0,United States,OR,No,1,1,1,100-500,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,1,No,No,0,No,NA
+8/27/14 12:39,30,F,0,1,United States,PA,No,1,0,0,More than 1000,Yes,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,Maybe,0,No,I'd be more worried about coworkers and workplace culture than the employer--they're probably legally obligated to do some things but reputation among people I work with is something else. For instance I've heard people make snide remarks about men taking paternity leave I don't want to know what they'd say about mental health leave.
+8/27/14 12:40,29,F,0,1,United States,MI,No,0,0,0,100-500,Yes,Yes,0,0,0,0,Don't know,0,Maybe,No,No,0,No,Maybe,0,No,NA
+8/27/14 12:40,32,M,1,0,United States,CA,No,1,0,0,26-100,No,Yes,0,0,0,0,Don't know,1,No,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 12:41,36,M,1,0,United States,IL,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,Maybe,Maybe,0,No,NA
+8/27/14 12:42,27,M,1,0,United States,CA,No,1,1,1,More than 1000,No,Yes,0,0,0,0,Don't know,0,No,No,No,0,No,Maybe,0,No,NA
+8/27/14 12:43,27,M,1,0,United States,UT,No,0,1,1,26-100,Yes,Yes,0,1,0,0,Don't know,0,Maybe,No,Some of them,1,No,No,0,Yes,Had a co-worker disappear from work for a few weeks and then come back to let everyone know he was bipolar. His responsibilities and schedule were adjusted to accommodate but he got worse didn't show up didn't work etc and was eventually let go.It was tough because on the one hand he was struggling with some mental health issues but on the other hand he went through a period of months where he wasn't performing.
+8/27/14 12:43,25,M,1,0,United States,IL,No,1,1,1,26-100,No,Yes,0,0,0,0,Don't know,1,Maybe,No,Some of them,0,No,No,0,Yes,Family history of depression.  Currently dealing with depression and anxiety as well as drug addition.Employer provides & pays premiums on insurance which covers therapy and prescriptions.  Employer allows work-from-home and unlimited PTO which makes episodes easier to control.I don't speak of my problems to anyone at work except for the people that I consider friends and even then I don't go into great detail.I would never bring up a mental health issue during an interview for fear of discrimination and rejection (and therefore greater depression).  One co-worker had serious anxiety problems and would not inform his team of episodes and was eventually let go for being unresponsive.
+8/27/14 12:44,25,F,0,1,United States,NY,No,1,1,1,500-1000,No,Yes,1,0,0,0,Don't know,0,Yes,Yes,Some of them,0,No,No,0,No,NA
+8/27/14 12:44,31,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,1,0,0,1,Don't know,0,No,No,Some of them,0,No,No,0,No,NA
+8/27/14 12:45,26,M,1,0,United States,MA,No,1,0,1,25-Jun,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,1,No,No,0,No,NA
+8/27/14 12:46,33,F,0,1,United States,WA,Yes,1,1,1,5-Jan,No,Yes,0,1,1,1,Yes,0,No,No,Some of them,1,No,Yes,1,No,Many of these questions become irrelevant once 'Yes' is selected for 'Are you self-employed'.  It would be preferable for there to be a 'Not Relevant' option on these.
+8/27/14 12:48,34,M,1,0,United States,MN,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,1,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 12:48,42,M,1,0,United States,CA,No,0,0,0,25-Jun,No,Yes,0,1,0,0,Don't know,0,Maybe,No,Yes,1,No,Maybe,0,No,NA
+8/27/14 12:49,23,F,0,1,United States,NC,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,1,No,Maybe,1,No,NA
+8/27/14 12:49,31,M,1,0,United States,MO,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,Maybe,No,No,0,No,Maybe,0,No,NA
+8/27/14 12:50,32,F,0,1,United States,MA,No,0,1,1,25-Jun,Yes,Yes,1,0,0,0,Yes,1,No,No,Yes,1,No,No,1,Yes,I am not sure about my company's healthcare because I've opted out of it and I'm covered under another policy.I currently work at a great company though in past jobs I don't think I would have felt comfortable talking about mental health at all.
+8/27/14 12:51,45,F,0,1,United States,CA,No,0,1,1,5-Jan,No,Yes,1,0,0,0,Yes,0,No,No,Yes,1,No,No,1,No,In small startups it is very hard to keep mental health issues truly private no matter what management does.
+8/27/14 12:51,33,M,1,0,United States,TX,No,0,0,0,25-Jun,Yes,Yes,0,0,0,0,Don't know,1,No,No,Yes,1,No,Maybe,0,No,A close family member of mine struggles with mental health so I try not to stigmatize it. My employers/coworkers also seem compassionate toward any kind of health or family needs.
+8/27/14 12:51,45,M,1,0,United States,CA,No,0,1,1,More than 1000,No,Yes,0,0,0,0,Don't know,0,Yes,Yes,Some of them,0,No,No,0,No,NA
+8/27/14 12:52,43,M,1,0,United States,WA,No,1,1,1,More than 1000,Yes,Yes,1,0,0,0,Don't know,0,Yes,Maybe,No,0,No,No,0,No,NA
+8/27/14 12:52,37,M,1,0,United States,MA,No,0,0,0,500-1000,Yes,Yes,1,0,0,0,Don't know,0,Yes,No,Some of them,0,Maybe,Yes,0,No,NA
+8/27/14 12:53,35,F,0,1,United States,CA,No,1,1,0,More than 1000,No,Yes,1,0,0,0,Yes,1,Maybe,No,No,0,No,No,0,No,NA
+8/27/14 12:53,28,M,1,0,United States,MI,No,1,1,1,26-100,No,Yes,1,0,0,0,Don't know,1,Maybe,Maybe,Some of them,0,No,Maybe,0,No,NA
+8/27/14 12:54,35,M,1,0,United States,CA,No,0,1,1,25-Jun,No,Yes,0,0,0,0,Yes,0,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 12:55,35,F,0,1,United States,NY,No,0,0,0,500-1000,Yes,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/27/14 12:55,26,M,1,0,United States,CA,No,0,0,1,More than 1000,No,Yes,1,0,0,0,Yes,1,No,No,Some of them,1,No,Maybe,0,No,NA
+8/27/14 12:56,27,M,1,0,United States,TN,No,1,0,0,25-Jun,Yes,Yes,1,1,0,0,Don't know,1,Maybe,Maybe,Some of them,0,No,Maybe,1,No,NA
+8/27/14 12:57,27,F,0,1,United States,OR,No,1,1,1,26-100,No,Yes,1,0,0,0,Don't know,1,No,No,Some of them,0,No,No,1,No,My seniority at the company and rapport with the owners has helped me gain support for seeking help regarding my mental health as well as being able to take time off or work from home when an episode starts.However I don't feel that the company's stance on mental health is as clear as say something like vision or dental.  There's very much a stigma.
+8/27/14 12:58,41,M,1,0,United States,FL,No,0,1,1,25-Jun,Yes,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,Maybe,Maybe,0,No,NA
+8/27/14 13:04,30,M,1,0,United States,MA,No,0,1,1,26-100,No,Yes,0,1,0,0,Yes,1,Maybe,No,Yes,1,No,Maybe,0,No,NA
+8/27/14 13:04,24,M,1,0,United States,KS,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 13:06,40,F,0,1,United States,DC,No,0,0,0,26-100,No,Yes,1,1,1,1,Yes,1,No,No,Some of them,1,No,No,1,No,NA
+8/27/14 13:07,32,F,0,1,United States,TX,No,1,1,1,25-Jun,No,Yes,0,0,0,0,No,0,Yes,Maybe,Some of them,0,No,Maybe,0,Yes,NA
+8/27/14 13:07,27,F,0,1,United States,MI,Yes,1,1,1,5-Jan,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,No,No,0,No,Many of these questions were difficult to answer as a self-employed person; I did my best with the available options.
+8/27/14 13:09,41,M,1,0,United States,VA,No,0,0,0,26-100,No,Yes,1,0,0,0,Don't know,1,Yes,No,No,0,No,No,0,No,NA
+8/27/14 13:12,34,F,0,1,United States,WA,No,0,0,0,25-Jun,No,Yes,1,0,0,0,Don't know,1,No,No,Yes,1,Maybe,Maybe,1,No,One of my coworkers has mental health issues and she's open about them (eg: my enjoyment of this project may be due to my recent change in meds). I believe the response has been generally supportive. We're a very small tight-knit company.
+8/27/14 13:14,28,M,1,0,United States,PA,No,0,0,1,25-Jun,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 13:15,28,M,1,0,United States,MI,No,0,1,1,More than 1000,No,Yes,0,1,0,0,Yes,0,Yes,No,No,0,No,No,0,No,NA
+8/27/14 13:15,23,M,1,0,United States,PA,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,No,No,No,1,No,Yes,1,No,A strong mind goes a long way. Stay strong. Take some time off to help. Its all in your head. 
+8/27/14 13:18,24,M,1,0,United States,OR,No,0,0,0,5-Jan,No,Yes,0,0,0,0,Yes,1,No,No,Yes,1,Maybe,Yes,1,No,Would you bring up a mental health issue with a potential employer in an interview?Poignant.
+8/27/14 13:18,32,M,1,0,United States,WA,No,0,0,1,5-Jan,Yes,Yes,0,1,0,0,Don't know,0,No,No,Some of them,1,No,Maybe,1,No,NA
+8/27/14 13:21,24,M,1,0,United States,PA,No,0,0,0,25-Jun,No,Yes,1,0,0,0,Don't know,1,Maybe,No,Some of them,0,Maybe,Maybe,1,No,NA
+8/27/14 13:22,36,M,1,0,United States,OH,No,0,1,1,26-100,No,Yes,1,0,0,1,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,Yes,NA
+8/27/14 13:23,41,M,1,0,United States,TX,No,0,1,1,500-1000,Yes,Yes,1,1,0,0,Don't know,0,Maybe,Maybe,Some of them,0,Maybe,Maybe,0,No,I found it difficult to answer all of the questions effectively as many of them would depend on the nature of the mental health issues as some seem more socially accepted than others. For some people telling your current supervisor that you have a history of bi-polar disorder might be easier than telling a potential employer that you have a history of compulsive gambling. They might both be bits of irrelevant information (past behavior and not indicators of future behavior). However western culture pushes us to appear as capable as possible to our supervisors in pursuit of excellence in our work. Providing information that could create a negative bias seems like a more genuine and yet more risky approach to the discussion.
+8/27/14 13:24,38,M,1,0,United States,NH,No,0,0,1,26-100,Yes,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,1,No,Maybe,0,No,NA
+8/27/14 13:32,34,M,1,0,United States,FL,No,1,1,1,5-Jan,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,Yes,NA
+8/27/14 13:32,33,M,1,0,United States,CA,No,1,1,1,26-100,No,Yes,1,1,1,1,Yes,1,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 13:34,27,M,1,0,United States,GA,No,0,0,0,More than 1000,Yes,Yes,1,1,0,0,Yes,1,No,No,Some of them,1,Maybe,Maybe,1,No,NA
+8/27/14 13:35,40,M,1,0,United States,OH,No,0,1,1,More than 1000,Yes,Yes,1,1,1,1,Yes,0,Yes,Maybe,No,0,No,Maybe,0,Yes,I have only discussed my mental illness with close family members. I feel completely uncomfortable discussing with anyone at my place of employment as I am concerned it would have negative consequences.
+8/27/14 13:37,32,M,1,0,United States,NC,No,1,1,1,5-Jan,Yes,Yes,0,0,0,0,Don't know,0,Maybe,No,Yes,1,No,Yes,0,No,NA
+8/27/14 13:40,28,M,1,0,United States,GA,No,1,0,0,100-500,No,Yes,1,0,0,0,Yes,1,No,No,Some of them,1,No,Maybe,1,Yes,NA
+8/27/14 13:42,31,M,1,0,United States,CA,No,1,1,1,100-500,Yes,Yes,1,1,1,0,Yes,1,No,No,Some of them,1,No,Maybe,1,No,NA
+8/27/14 13:44,24,M,1,0,United States,VA,No,0,0,1,25-Jun,No,Yes,0,0,0,0,Don't know,0,No,No,Yes,1,Maybe,Maybe,0,No,NA
+8/27/14 13:47,42,M,1,0,United States,WA,No,0,0,0,25-Jun,Yes,Yes,0,1,0,1,Don't know,1,No,No,Some of them,1,No,No,1,No,No benefits at this organization but my employer/direct supervisor has had positive and constructive conversations with me about physical and mental health. Supervisor offered solutions advice time/energy to get help if I ever felt that needed it. (though it would have to be at my own expense). I feel safe sharing personal info with this particular person/company but this environment is the exception rather than the norm in my 15+ years as a tech worker. I would never feel safe enough to reveal info about any mental health concerns with any previous employers in the tech industry for fear of  negative perceptions job loss performance dings etc. 
+8/27/14 13:49,27,F,0,1,United States,TX,No,0,1,1,25-Jun,No,Yes,1,0,0,0,Yes,0,Maybe,Maybe,Yes,0,No,Maybe,0,No,NA
+8/27/14 13:52,30,M,1,0,United States,FL,No,0,1,1,100-500,Yes,Yes,1,1,0,1,Yes,0,No,No,Yes,1,Maybe,No,1,No,NA
+8/27/14 13:53,32,M,1,0,United States,NV,No,0,0,0,25-Jun,No,Yes,0,1,0,0,Don't know,1,No,No,Some of them,1,No,Maybe,0,No,NA
+8/27/14 13:54,41,M,1,0,United States,AL,No,0,1,1,26-100,Yes,Yes,1,1,0,0,Don't know,1,No,No,Yes,1,Yes,Yes,1,No,I think I am very lucky in my workplace. Our CEO has a degree in psychology.
+8/27/14 13:55,37,F,0,1,United States,CA,No,1,1,1,26-100,No,Yes,1,1,0,0,Yes,0,Maybe,No,Some of them,0,No,Yes,0,No,NA
+8/27/14 13:55,32,M,1,0,United States,CO,No,0,0,0,25-Jun,Yes,Yes,0,0,0,0,Don't know,1,No,No,Yes,1,No,No,0,No,NA
+8/27/14 13:56,30,M,1,0,United States,NJ,No,0,0,0,More than 1000,No,Yes,1,1,1,1,Yes,1,No,No,Some of them,1,No,No,1,No,NA
+8/27/14 13:59,38,M,1,0,United States,PA,No,0,1,1,26-100,Yes,Yes,1,0,0,0,Don't know,0,Yes,No,No,0,No,Maybe,0,No,NA
+8/27/14 14:03,23,M,1,0,United States,PA,No,1,0,1,100-500,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 14:10,18,M,1,0,United States,TX,No,0,1,1,25-Jun,No,Yes,0,0,0,0,Don't know,0,Yes,No,No,0,No,Maybe,0,No,NA
+8/27/14 14:10,35,M,1,0,United States,NY,No,1,1,1,26-100,No,Yes,1,1,0,0,Yes,0,Yes,No,No,0,No,Maybe,0,No,NA
+8/27/14 14:11,26,F,0,1,United States,WA,No,1,1,1,More than 1000,No,Yes,1,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 14:11,18,M,1,0,United States,WA,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,1,No,No,Some of them,0,No,Maybe,1,No,NA
+8/27/14 14:13,38,F,0,1,United States,TX,No,0,1,1,5-Jan,No,Yes,0,1,0,0,Don't know,0,No,Maybe,Some of them,0,No,No,0,Yes,The form of mental health problem that I suffer is anxiety.
+8/27/14 14:13,26,F,0,1,United States,TX,No,1,1,1,More than 1000,Yes,Yes,1,1,1,0,Don't know,1,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 14:14,35,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,No,0,No,NA
+8/27/14 14:15,45,M,1,0,United States,NY,No,1,1,1,More than 1000,No,Yes,1,1,0,0,Yes,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 14:15,32,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,1,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 14:15,56,M,1,0,United States,NA,No,0,1,0,More than 1000,No,Yes,1,0,0,0,Don't know,0,No,Maybe,Yes,0,No,Maybe,0,No,NA
+8/27/14 14:16,24,F,0,1,United States,CA,No,0,0,0,500-1000,No,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,Maybe,0,No,NA
+8/27/14 14:18,30,F,0,1,United States,SC,No,1,1,1,26-100,No,Yes,1,1,1,0,Don't know,1,No,No,Yes,1,No,Yes,1,No,NA
+8/27/14 14:18,60,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,1,0,0,1,Don't know,0,No,No,Some of them,1,Maybe,Maybe,1,No,NA
+8/27/14 14:18,33,M,1,0,United States,CA,No,1,1,1,More than 1000,No,Yes,1,0,1,1,Don't know,0,Yes,No,No,0,No,Maybe,0,No,NA
+8/27/14 14:19,37,M,1,0,United States,NY,No,0,0,0,More than 1000,No,Yes,1,1,1,1,Don't know,0,No,No,Some of them,1,Maybe,Maybe,0,No,NA
+8/27/14 14:19,23,F,0,1,United States,NY,No,0,1,1,More than 1000,No,Yes,1,1,1,1,Don't know,0,No,No,Some of them,0,No,No,1,No,NA
+8/27/14 14:20,31,F,0,1,United States,CA,No,0,1,1,More than 1000,No,Yes,1,0,0,0,Yes,1,No,No,Yes,1,No,No,1,No,NA
+8/27/14 14:20,26,M,1,0,United States,MA,No,0,0,1,100-500,No,Yes,1,0,0,0,Don't know,0,No,No,Some of them,1,No,Maybe,0,No,NA
+8/27/14 14:21,37,F,0,1,United States,CA,No,0,1,1,More than 1000,No,Yes,1,1,0,1,Don't know,1,No,No,Some of them,1,No,No,1,No,NA
+8/27/14 14:22,30,O,0,0,United States,IL,No,1,1,1,26-100,No,Yes,1,0,0,0,Don't know,1,Maybe,No,Some of them,1,No,No,0,No,NA
+8/27/14 14:22,26,M,1,0,United States,IN,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,No,No,0,Yes,NA
+8/27/14 14:22,25,M,1,0,United States,OR,No,0,0,0,26-100,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 14:23,27,M,1,0,United States,TN,No,0,0,1,100-500,No,Yes,1,0,1,1,Don't know,0,Maybe,No,Some of them,1,No,Maybe,0,No,The thought of going through my employer directly to get help is fucking scary.Getting help is the hardest part of getting help.
+8/27/14 14:24,35,M,1,0,United States,OR,No,0,1,1,100-500,No,Yes,1,0,0,1,Don't know,0,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 14:25,36,M,1,0,United States,WA,Yes,0,1,0,5-Jan,No,Yes,0,1,0,0,Don't know,1,Maybe,No,Some of them,1,No,No,1,No,NA
+8/27/14 14:25,26,M,1,0,United States,CA,No,1,1,1,More than 1000,No,Yes,1,0,0,0,Don't know,0,Yes,No,No,0,No,No,0,No,NA
+8/27/14 14:26,27,M,1,0,United States,CA,No,1,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,1,No,No,Yes,1,Maybe,Maybe,1,No,Don't know because I haven't checked not because it's difficult to find out. If you didn't have the don't know option I would've looked up the answer.
+8/27/14 14:27,22,F,0,1,United States,NY,No,1,1,1,More than 1000,No,Yes,1,1,1,1,Yes,1,Maybe,No,No,0,No,No,1,Yes,NA
+8/27/14 14:28,41,M,1,0,United States,SD,No,1,1,1,100-500,Yes,Yes,1,1,0,1,Yes,1,No,No,Some of them,1,Maybe,Maybe,1,No,NA
+8/27/14 14:28,29,M,1,0,United States,CA,No,0,1,1,More than 1000,No,Yes,1,0,0,0,Don't know,0,Yes,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 14:28,32,M,1,0,United States,OR,No,0,0,0,500-1000,No,Yes,1,0,0,1,Yes,1,No,No,Some of them,1,Maybe,Maybe,1,No,NA
+8/27/14 14:28,24,F,0,1,United States,CA,No,1,1,1,More than 1000,No,Yes,1,1,0,1,Yes,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 14:29,25,M,1,0,United States,CA,No,0,1,1,25-Jun,No,Yes,1,0,0,0,Don't know,0,Maybe,No,No,0,No,No,0,No,NA
+8/27/14 14:30,25,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,0,Maybe,No,No,0,No,Maybe,0,No,NA
+8/27/14 14:31,30,F,0,1,United States,CO,No,0,0,0,More than 1000,No,Yes,1,1,1,1,Yes,1,Maybe,Maybe,No,0,No,No,0,No,NA
+8/27/14 14:31,25,M,1,0,United States,CA,No,1,1,1,More than 1000,No,Yes,0,0,0,1,Don't know,0,No,No,Yes,1,No,No,1,No,NA
+8/27/14 14:31,30,M,1,0,United States,OH,Yes,0,0,0,5-Jan,Yes,Yes,0,1,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 14:32,24,M,1,0,United States,WA,No,0,0,0,26-100,No,Yes,1,0,1,1,Yes,1,No,No,Some of them,0,No,Maybe,1,No,NA
+8/27/14 14:37,46,M,1,0,United States,WA,No,0,0,0,26-100,No,Yes,1,0,1,0,Don't know,1,No,No,Some of them,0,Maybe,Maybe,0,No,NA
+8/27/14 14:38,29,F,0,1,United States,CA,Yes,0,0,1,More than 1000,No,Yes,1,0,0,0,Don't know,1,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/27/14 14:38,24,M,1,0,United States,MA,No,0,0,0,More than 1000,No,Yes,1,1,0,0,Yes,0,Yes,No,No,0,No,Maybe,0,No,I think there might be some bugs in my thought but I haven't sought treatment because they're not worse than annoying and I worry about having the label.
+8/27/14 14:38,29,M,1,0,United States,WA,No,0,0,0,26-100,No,Yes,1,1,1,1,Yes,1,No,No,Some of them,1,No,Maybe,1,No,I think a lot of our policy is based on a situation that occurred in the past 5 years. A very public mental illness happened with a coworker that unfortunately ended negatively. It was definitely a catalyst to talking about our options but the overall sentiment of it being OK to take time off talk with your supervisors etc. has always been there. It's a great company.
+8/27/14 14:39,33,F,0,1,United States,WA,No,1,0,1,26-100,Yes,Yes,0,1,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,Maybe,0,No,NA
+8/27/14 14:39,27,M,1,0,United States,CA,No,0,0,1,More than 1000,No,Yes,0,0,0,0,Don't know,1,Yes,No,No,0,No,Maybe,0,No,Regardless of a stated lack of negative consequences for discussing mental health issues with coworkers/superiors unconscious bias is a very real thing - as long as I don't *need* to inform my co-workers my mental health issues do not need to be public knowledge.
+8/27/14 14:41,36,M,1,0,United States,IA,No,0,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 14:44,25,F,0,1,United States,WA,No,1,1,1,26-100,No,Yes,1,1,0,0,Yes,0,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 14:45,54,M,1,0,United States,CA,No,1,1,0,More than 1000,No,Yes,0,0,1,1,Don't know,0,No,No,No,1,No,No,0,No,NA
+8/27/14 14:47,22,M,1,0,United States,CA,No,0,0,1,More than 1000,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 14:47,25,O,0,0,United States,CA,No,1,1,1,More than 1000,No,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,1,No,NA
+8/27/14 14:49,27,M,1,0,United States,MA,No,0,1,1,More than 1000,No,Yes,1,1,1,1,Yes,0,No,No,No,0,No,Yes,1,No,NA
+8/27/14 14:52,26,M,1,0,United States,CA,No,1,1,1,More than 1000,No,Yes,1,0,0,1,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 14:54,33,M,1,0,United States,IN,No,1,1,1,26-100,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 14:54,34,M,1,0,United States,WA,No,1,1,1,More than 1000,No,Yes,1,1,0,1,Yes,0,Maybe,Maybe,No,0,No,No,0,No,NA
+8/27/14 14:57,34,M,1,0,United States,WA,No,0,1,1,100-500,Yes,Yes,0,0,0,0,Don't know,1,Yes,Yes,Some of them,0,No,Maybe,0,No,NA
+8/27/14 14:58,29,M,1,0,United States,IN,Yes,0,0,0,5-Jan,Yes,Yes,0,1,0,0,Yes,1,No,No,Yes,1,Maybe,Maybe,1,No,NA
+8/27/14 14:59,33,F,0,1,United States,WA,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 15:05,33,M,1,0,United States,OH,No,0,1,1,25-Jun,Yes,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 15:09,28,M,1,0,United States,GA,No,1,1,1,More than 1000,No,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,No,0,No,No,0,No,NA
+8/27/14 15:11,35,M,1,0,United States,CA,No,1,0,0,More than 1000,No,Yes,1,0,1,1,Yes,1,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 15:13,36,M,1,0,United States,NA,No,1,1,1,100-500,No,Yes,0,1,0,0,Yes,1,No,No,Some of them,0,No,No,0,No,NA
+8/27/14 15:14,21,M,1,0,United States,IN,No,1,1,1,100-500,No,Yes,1,0,0,0,Yes,0,No,No,Yes,1,Maybe,Maybe,0,No,NA
+8/27/14 15:15,22,F,0,1,United States,WA,No,0,0,0,More than 1000,No,Yes,1,0,1,1,Yes,1,No,No,No,0,No,No,1,No,NA
+8/27/14 15:20,41,M,1,0,United States,WA,No,1,1,1,More than 1000,No,Yes,1,0,1,1,Don't know,0,Maybe,No,Yes,0,No,Maybe,0,Yes,NA
+8/27/14 15:21,55,M,1,0,United States,PA,No,1,1,1,More than 1000,No,Yes,1,1,1,1,Yes,1,No,No,Yes,1,No,No,1,No,My refer to the mental health issue of depression.  I might answer differently if I was talking about a more serious issue like schizophrenia
+8/27/14 15:22,32,F,0,1,United States,WA,No,0,1,1,26-100,No,Yes,1,1,1,1,Yes,1,Maybe,No,Some of them,1,No,Maybe,1,No,My employer does what they can providing a wellness program and pointing it out after particularly stressful times. But the interaction between the wellness program and the medical insurance is unpleasant and finding a long-term therapist / psychiatrist covered by insurance is amazingly difficult. My current lack of active treatment is due to insurance friction more than workplace friction.
+8/27/14 15:22,21,F,0,1,United States,CA,No,1,1,1,26-100,No,Yes,0,0,0,0,Don't know,1,Yes,No,Some of them,0,No,Yes,0,No,NA
+8/27/14 15:22,45,M,1,0,United States,MA,No,0,1,0,26-100,Yes,Yes,1,1,0,0,Don't know,0,Maybe,No,No,0,No,Maybe,0,No,NA
+8/27/14 15:22,27,F,0,1,United States,WA,No,0,1,1,More than 1000,No,Yes,1,1,0,0,Yes,0,Yes,Maybe,No,0,No,No,0,No,NA
+8/27/14 15:22,25,F,0,1,United States,WA,No,1,1,1,26-100,Yes,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,1,No,No,1,No,NA
+8/27/14 15:23,26,F,0,1,United States,CA,No,1,1,0,More than 1000,No,Yes,1,1,0,1,Yes,0,Maybe,No,No,0,No,No,0,No,NA
+8/27/14 15:23,27,M,1,0,United States,CA,No,0,1,1,More than 1000,No,Yes,1,0,1,1,Yes,0,No,No,Some of them,1,No,Maybe,1,No,NA
+8/27/14 15:23,31,M,1,0,United States,IN,No,1,1,1,26-100,Yes,Yes,1,0,0,0,Don't know,0,No,No,Yes,1,No,No,0,No,NA
+8/27/14 15:23,26,M,1,0,United States,NV,No,0,1,1,25-Jun,No,Yes,0,0,0,0,Don't know,0,Yes,Yes,Some of them,0,No,No,0,No,NA
+8/27/14 15:23,27,F,0,1,United States,CO,No,1,1,1,More than 1000,Yes,Yes,1,1,0,0,Don't know,0,Maybe,Maybe,No,1,No,No,0,No,NA
+8/27/14 15:24,29,O,0,0,United States,CA,Yes,1,1,1,5-Jan,Yes,Yes,1,1,0,0,Don't know,0,Yes,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 15:24,25,F,0,1,United States,CA,No,0,1,1,25-Jun,No,Yes,0,0,0,0,Don't know,0,Yes,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 15:24,31,M,1,0,United States,SC,No,0,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,1,Yes,No,Some of them,0,No,No,0,No,NA
+8/27/14 15:25,32,F,0,1,United States,AL,No,0,0,0,100-500,No,Yes,0,0,0,0,Don't know,0,Maybe,No,No,0,No,Maybe,0,No,NA
+8/27/14 15:26,26,M,1,0,United States,OR,No,1,1,1,25-Jun,No,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,1,No,No,0,No,NA
+8/27/14 15:26,28,M,1,0,United States,NJ,No,1,1,1,26-100,No,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 15:26,23,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,Maybe,0,No,NA
+8/27/14 15:26,35,M,1,0,United States,CA,No,1,1,1,100-500,No,Yes,1,1,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,Maybe,0,Yes,I'm troubled by the way that our hiring process tends to filter out non-neurotypicals of all stripes. Competent people who act a little funny can be hard to hire.
+8/27/14 15:27,26,M,1,0,United States,CA,No,1,0,0,25-Jun,No,Yes,1,1,0,1,Yes,1,No,No,Some of them,1,Maybe,Maybe,0,No,NA
+8/27/14 15:27,33,M,1,0,United States,NH,No,1,1,0,26-100,Yes,Yes,1,1,1,1,Don't know,0,Yes,Maybe,Yes,0,No,No,1,No,NA
+8/27/14 15:27,33,M,1,0,United States,CA,No,0,0,0,More than 1000,Yes,Yes,0,0,0,0,Don't know,0,Yes,No,Some of them,0,No,Maybe,1,No,NA
+8/27/14 15:29,33,M,1,0,United States,OH,No,1,1,1,More than 1000,Yes,Yes,1,1,0,0,Don't know,1,Yes,No,No,0,No,No,0,No,NA
+8/27/14 15:29,21,M,1,0,United States,MA,No,1,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,No,Maybe,0,Yes,NA
+8/27/14 15:31,26,F,0,1,United States,OK,No,0,1,1,100-500,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,No,No,1,No,NA
+8/27/14 15:31,30,M,1,0,United States,CA,No,1,0,1,25-Jun,No,Yes,0,0,0,0,Don't know,1,Maybe,No,Some of them,1,No,No,0,No,NA
+8/27/14 15:31,55,M,1,0,United States,ID,No,1,1,1,5-Jan,Yes,Yes,0,1,0,0,Don't know,0,Yes,Maybe,No,0,No,No,0,Yes,NA
+8/27/14 15:35,24,M,1,0,United States,TX,No,1,1,1,100-500,No,Yes,0,1,0,0,Don't know,0,Yes,No,Some of them,0,No,Maybe,0,Yes,NA
+8/27/14 15:36,24,F,0,1,United States,OR,No,0,0,0,More than 1000,No,Yes,1,1,1,1,Yes,1,No,No,Some of them,0,Yes,Yes,1,No,NA
+8/27/14 15:38,24,F,0,1,United States,NY,No,1,1,1,25-Jun,No,Yes,0,0,0,0,Don't know,1,Yes,No,No,0,No,Yes,1,No,NA
+8/27/14 15:38,33,M,1,0,United States,MS,Yes,0,1,1,5-Jan,Yes,Yes,0,0,0,0,Yes,1,Yes,Maybe,Some of them,0,Yes,Yes,0,No,NA
+8/27/14 15:38,34,M,1,0,United States,NJ,No,0,0,1,26-100,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Yes,1,No,Maybe,0,No,NA
+8/27/14 15:38,27,F,0,1,United States,CA,No,0,1,1,26-100,No,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,I talked to a psychiatrist once about taking medical leave for mental health issues with his referral. He was willing to help but warned me that I may not want to as he's seen that sort of thing follow people throughout their tech careers (word gets out even if it's confidential at work). I've been terrified of bringing mental health up anywhere that coworkers or potential employers could see ever since.
+8/27/14 15:38,28,M,1,0,United States,TN,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 15:39,26,M,1,0,United States,WA,No,0,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,No,0,Yes,NA
+8/27/14 15:43,23,F,0,1,United States,MA,No,0,1,1,26-100,No,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 15:43,29,M,1,0,United States,PA,No,1,1,1,5-Jan,Yes,Yes,1,1,1,1,Yes,1,No,No,Yes,1,Maybe,Maybe,1,No,NA
+8/27/14 15:43,36,M,1,0,United States,KY,No,0,0,1,More than 1000,Yes,Yes,1,0,1,0,Don't know,1,Maybe,No,No,0,No,No,0,No,NA
+8/27/14 15:44,41,M,1,0,United States,PA,No,0,1,1,More than 1000,No,Yes,1,1,1,1,Yes,0,Maybe,No,Some of them,1,Maybe,Yes,1,Yes,NA
+8/27/14 15:44,33,F,0,1,United States,MA,No,0,0,0,100-500,Yes,Yes,1,0,0,0,Don't know,0,No,No,Some of them,1,No,No,1,No,NA
+8/27/14 15:46,39,M,1,0,United States,CA,No,1,0,1,More than 1000,No,Yes,1,0,0,0,Don't know,0,Yes,No,Some of them,0,No,Maybe,0,Yes,NA
+8/27/14 15:47,34,M,1,0,United States,VT,No,1,0,0,More than 1000,No,Yes,1,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,Yes,NA
+8/27/14 15:47,26,F,0,1,United States,CA,No,0,1,1,100-500,No,Yes,1,1,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,No,0,Yes,NA
+8/27/14 15:50,24,M,1,0,United States,AZ,No,0,1,1,26-100,No,Yes,1,1,1,0,Don't know,0,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 15:53,43,M,1,0,United States,MA,Yes,1,1,1,25-Jun,Yes,Yes,1,1,0,0,Yes,1,No,No,Yes,1,Maybe,Maybe,1,No,So much depends upon the organization. 
+8/27/14 15:53,40,O,0,0,United States,VA,No,1,0,0,More than 1000,No,Yes,1,1,1,0,Yes,0,Yes,Maybe,No,0,No,Maybe,1,No,NA
+8/27/14 15:54,30,M,1,0,United States,WA,No,1,1,1,More than 1000,No,Yes,1,1,1,0,Don't know,0,Yes,No,Some of them,0,No,No,0,Yes,NA
+8/27/14 15:55,34,M,1,0,United States,CA,No,0,1,1,25-Jun,No,Yes,0,0,0,0,Don't know,0,Yes,Yes,Some of them,0,No,No,0,No,Now at starutp.  Previously worked at big tech company which was actually quite good at supporting mental health issues.  Still wouldn't share with bosses/other employees though as there remains a strong negative stigma.
+8/27/14 15:55,27,M,1,0,United States,OR,No,1,1,1,100-500,No,Yes,0,0,0,0,Don't know,0,Yes,No,No,0,No,Yes,0,No,NA
+8/27/14 15:55,36,M,1,0,United States,MI,No,0,0,1,More than 1000,No,Yes,0,0,0,0,Yes,1,No,No,Yes,1,Maybe,Yes,0,No,NA
+8/27/14 15:59,37,M,1,0,United States,OR,No,0,0,0,500-1000,No,Yes,1,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/27/14 16:01,33,F,0,1,United States,CA,No,0,0,0,500-1000,No,Yes,1,0,1,1,Don't know,1,Maybe,No,Some of them,1,No,No,1,No,I currently have the best managers I've ever worked with. I don't have any issues but one of my coworkers recently did and it was handled extremely well. 
+8/27/14 16:01,28,M,1,0,United States,UT,No,0,0,1,25-Jun,Yes,Yes,0,1,0,0,Don't know,1,Yes,Maybe,Some of them,0,No,No,0,No,NA
+8/27/14 16:02,26,F,0,1,United States,CA,No,1,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,Maybe,0,No,NA
+8/27/14 16:03,27,M,1,0,United States,TX,No,1,1,1,25-Jun,Yes,Yes,0,0,1,0,Don't know,1,Yes,No,Some of them,1,No,Maybe,1,No,NA
+8/27/14 16:06,57,M,1,0,United States,CA,No,1,1,1,More than 1000,No,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,1,No,Maybe,0,No,NA
+8/27/14 16:13,31,M,1,0,United States,OR,No,0,1,1,100-500,Yes,Yes,1,1,1,1,Yes,1,No,No,Some of them,1,No,No,1,No,NA
+8/27/14 16:13,58,M,1,0,United States,CA,No,0,1,1,More than 1000,No,Yes,1,1,1,1,Yes,1,Maybe,No,Some of them,1,No,Yes,1,No,NA
+8/27/14 16:13,29,M,1,0,United States,OH,No,0,0,1,25-Jun,No,Yes,0,0,0,0,Don't know,0,Yes,No,No,0,No,Maybe,0,No,NA
+8/27/14 16:14,34,M,1,0,United States,OH,No,0,0,1,25-Jun,Yes,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,1,No,Maybe,0,No,NA
+8/27/14 16:15,57,M,1,0,United States,CA,No,0,1,1,More than 1000,No,Yes,1,0,1,1,Don't know,0,Maybe,Maybe,No,0,No,Maybe,0,No,NA
+8/27/14 16:17,30,F,0,1,United States,NY,No,0,0,0,100-500,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,1,No,Maybe,0,No,NA
+8/27/14 16:18,43,M,1,0,United States,CA,No,0,1,1,More than 1000,No,Yes,1,1,1,1,Yes,1,Yes,Maybe,No,0,No,Yes,0,No,NA
+8/27/14 16:19,29,M,1,0,United States,IL,No,0,1,1,25-Jun,No,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 16:20,48,M,1,0,United States,TX,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,0,Maybe,No,No,0,No,Maybe,0,No,NA
+8/27/14 16:21,28,F,0,1,United States,NY,No,1,1,1,26-100,No,Yes,0,0,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,Maybe,0,No,NA
+8/27/14 16:21,30,M,1,0,United States,CA,Yes,1,1,1,5-Jan,Yes,Yes,0,1,0,0,Yes,1,No,No,Yes,1,No,No,1,No,NA
+8/27/14 16:22,31,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,1,0,0,0,Yes,0,No,No,No,0,No,No,1,No,NA
+8/27/14 16:25,24,F,0,1,United States,CA,Yes,1,1,1,5-Jan,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,No,No,0,Yes,NA
+8/27/14 16:26,25,M,1,0,United States,WA,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 16:27,23,F,0,1,United States,NY,No,1,1,1,More than 1000,No,Yes,1,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,1,Yes,NA
+8/27/14 16:28,25,F,0,1,United States,CA,Yes,1,1,1,5-Jan,Yes,Yes,0,0,0,0,Yes,0,Yes,No,Some of them,0,No,Maybe,0,Yes,NA
+8/27/14 16:29,38,F,0,1,United States,AZ,No,0,1,0,26-100,No,Yes,1,1,0,0,Yes,0,Maybe,Maybe,No,0,No,No,0,No,NA
+8/27/14 16:35,35,F,0,1,United States,OH,No,0,1,1,100-500,No,Yes,0,1,0,0,Don't know,0,Yes,Maybe,No,0,No,Maybe,0,No,NA
+8/27/14 16:36,46,M,1,0,United States,CA,No,0,1,1,More than 1000,No,Yes,1,1,1,1,Don't know,0,Maybe,No,Some of them,0,No,No,1,No,NA
+8/27/14 16:40,47,M,1,0,United States,CA,No,1,1,1,More than 1000,No,Yes,1,1,1,1,Don't know,1,No,No,Some of them,1,No,Yes,1,No,NA
+8/27/14 16:42,22,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,1,0,1,0,Yes,0,No,No,Some of them,1,No,Maybe,1,No,NA
+8/27/14 16:42,33,F,0,1,United States,NY,No,0,1,1,500-1000,Yes,Yes,1,1,1,1,Don't know,1,No,No,Some of them,0,No,No,0,No,NA
+8/27/14 16:47,25,F,0,1,United States,WA,No,0,0,1,25-Jun,No,Yes,0,0,0,0,No,1,Maybe,No,Some of them,0,No,No,1,No,NA
+8/27/14 16:53,29,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,0,Maybe,No,No,0,No,Maybe,0,No,NA
+8/27/14 16:55,39,M,1,0,United States,WA,No,0,0,0,26-100,No,Yes,1,1,1,1,Yes,1,No,No,Yes,1,No,No,1,No,I work for an extremely supportive company and we are amazingly open about mental health issues. Employees often share their struggles with the whole team and receive a high level of support in return.
+8/27/14 17:00,38,M,1,0,United States,VA,No,1,1,1,More than 1000,No,Yes,1,0,1,1,Yes,0,Yes,No,No,0,No,No,0,No,NA
+8/27/14 17:03,43,M,1,0,United States,NC,No,0,0,0,25-Jun,Yes,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 17:04,46,M,1,0,United States,OH,No,0,1,1,500-1000,Yes,Yes,1,0,1,1,Yes,0,No,No,Some of them,1,No,Maybe,1,No,NA
+8/27/14 17:12,62,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,1,1,0,1,Don't know,0,Maybe,No,Some of them,1,Maybe,Maybe,1,No,NA
+8/27/14 17:22,36,M,1,0,United States,IL,Yes,1,1,1,5-Jan,Yes,Yes,0,1,0,0,Yes,0,Maybe,No,Some of them,1,No,Yes,1,No,NA
+8/27/14 17:32,41,F,0,1,United States,NA,No,1,1,1,500-1000,Yes,Yes,1,1,1,1,Yes,1,Maybe,Maybe,Some of them,0,No,No,1,No,NA
+8/27/14 17:33,29,M,1,0,United States,NC,No,0,1,1,25-Jun,No,Yes,1,1,0,1,Yes,1,No,No,No,0,No,No,1,No,NA
+8/27/14 17:49,39,M,1,0,United States,WI,No,1,1,1,26-100,Yes,Yes,1,1,1,1,Don't know,1,Yes,No,Some of them,1,No,No,0,No,NA
+8/27/14 17:49,26,M,1,0,United States,CA,No,1,1,0,More than 1000,No,Yes,0,0,0,0,Don't know,0,Maybe,No,No,0,No,No,0,No,NA
+8/27/14 17:56,22,F,0,1,United States,CA,No,1,1,1,500-1000,No,Yes,1,1,0,0,Don't know,0,No,No,Some of them,0,No,No,0,Yes,NA
+8/27/14 18:02,31,F,0,1,United States,PA,No,1,1,1,100-500,No,Yes,1,1,0,0,Yes,1,No,No,Yes,1,No,No,1,No,NA
+8/27/14 18:12,28,F,0,1,United States,CA,No,1,1,1,100-500,Yes,Yes,1,0,0,0,Don't know,0,Yes,Yes,Some of them,0,No,No,0,Yes,NA
+8/27/14 18:18,36,M,1,0,United States,CA,No,1,1,1,More than 1000,No,Yes,1,0,0,1,Don't know,0,Yes,No,Some of them,1,No,Yes,0,No,NA
+8/27/14 18:22,21,M,1,0,United States,CA,No,1,0,0,More than 1000,No,Yes,1,1,1,1,Yes,0,No,No,Some of them,1,No,Maybe,1,No,NA
+8/27/14 19:13,33,M,1,0,United States,NY,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,Yes,No,Some of them,0,No,Maybe,0,No,I'm afraid I haven't seen mental health issues arise at work yet. They are very accommodating with maternity leave but I don't know how that translates to anything else.
+8/27/14 19:16,24,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,1,No,NA
+8/27/14 19:25,27,M,1,0,United States,OR,No,1,1,1,100-500,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,No,No,1,No,NA
+8/27/14 19:28,36,M,1,0,United States,CO,No,0,1,1,26-100,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,No,No,0,No,NA
+8/27/14 19:34,28,M,1,0,United States,GA,No,0,1,1,More than 1000,No,Yes,1,1,0,0,Yes,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/27/14 19:38,39,M,1,0,United States,OR,No,0,1,1,500-1000,No,Yes,1,0,1,0,Yes,0,Yes,Maybe,Yes,1,No,Maybe,0,No,NA
+8/27/14 19:41,32,M,1,0,United States,CA,No,0,1,1,More than 1000,No,Yes,1,0,0,1,Don't know,1,No,No,Yes,0,Maybe,Yes,0,No,NA
+8/27/14 19:45,31,M,1,0,United States,CA,No,1,0,1,More than 1000,No,Yes,1,0,0,0,Don't know,1,Maybe,No,No,0,No,Yes,0,No,Mental health issue I have dealt with: acute depression
+8/27/14 19:59,38,M,1,0,United States,PA,No,1,1,1,100-500,No,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/27/14 20:13,23,M,1,0,United States,CA,No,1,1,1,5-Jan,No,Yes,0,1,0,0,Don't know,0,Maybe,No,Some of them,1,No,No,1,No,NA
+8/27/14 20:17,42,M,1,0,United States,CA,No,0,1,1,More than 1000,No,Yes,1,1,1,1,Yes,1,Maybe,Maybe,Yes,1,Maybe,Maybe,0,No,NA
+8/27/14 20:33,27,F,0,1,United States,NY,No,0,0,1,500-1000,No,Yes,0,0,0,1,Don't know,0,No,No,Some of them,1,No,No,1,No,NA
+8/27/14 20:48,26,F,0,1,United States,MA,No,1,1,1,26-100,No,Yes,1,1,0,0,Yes,0,No,No,Yes,1,No,No,0,Yes,NA
+8/27/14 20:52,50,M,1,0,United States,NA,No,0,0,0,26-100,Yes,Yes,0,1,0,0,Don't know,0,No,No,No,0,No,Maybe,0,No,NA
+8/27/14 20:52,37,M,1,0,United States,PA,No,1,0,0,26-100,No,Yes,0,0,0,0,Don't know,1,No,No,Yes,1,No,No,1,No,NA
+8/27/14 20:53,23,M,1,0,United States,RI,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,No,No,Yes,1,No,Maybe,0,No,NA
+8/27/14 20:55,33,M,1,0,United States,MI,No,1,0,1,25-Jun,Yes,Yes,0,0,0,0,Yes,1,No,No,Some of them,1,No,No,1,No,NA
+8/27/14 21:17,41,M,1,0,United States,CA,No,1,1,1,More than 1000,No,Yes,1,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,Yes,NA
+8/27/14 21:21,50,M,1,0,United States,OR,No,1,0,0,100-500,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,Maybe,Maybe,0,No,NA
+8/27/14 21:39,35,M,1,0,United States,IN,No,0,0,0,25-Jun,No,Yes,0,1,0,0,Yes,1,No,No,Some of them,1,Maybe,Maybe,1,No,NA
+8/27/14 21:55,29,F,0,1,United States,MI,No,0,0,0,26-100,No,Yes,1,1,1,0,Yes,0,Maybe,No,Some of them,0,No,Maybe,0,Yes,NA
+8/27/14 22:00,31,M,1,0,United States,OH,No,1,1,1,25-Jun,No,Yes,0,0,0,0,Don't know,1,Maybe,No,Yes,1,No,Maybe,0,No,NA
+8/27/14 22:04,43,M,1,0,United States,OH,No,0,1,1,25-Jun,No,Yes,0,1,0,0,Don't know,1,No,No,Yes,1,No,Maybe,0,No,NA
+8/27/14 22:04,34,M,1,0,United States,NH,No,1,1,1,26-100,Yes,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,0,No,Yes,0,Yes,NA
+8/27/14 22:06,29,M,1,0,United States,OH,No,1,1,1,26-100,No,Yes,0,0,0,0,No,0,Yes,No,Some of them,0,No,Maybe,0,No,It has come to interfere with work as life progresses.Between burn out and enduring more of the work and balancing a family. Changes in my mental health have a larger pond to make ripples in.
+8/27/14 22:11,41,M,1,0,United States,TN,No,1,1,1,More than 1000,No,Yes,1,0,1,1,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/27/14 22:12,29,M,1,0,United States,OR,No,1,0,0,100-500,No,Yes,1,1,1,1,Don't know,0,No,No,Some of them,1,No,Maybe,1,No,NA
+8/27/14 22:13,23,M,1,0,United States,PA,No,0,0,1,100-500,No,Yes,1,0,0,0,Don't know,0,No,No,Some of them,0,No,No,1,No,NA
+8/27/14 22:14,24,F,0,1,United States,NA,No,1,1,1,100-500,No,Yes,1,0,0,0,Don't know,0,Yes,Maybe,No,0,No,No,0,Yes,NA
+8/27/14 22:14,31,M,1,0,United States,NY,No,0,0,0,26-100,Yes,Yes,0,0,0,0,Don't know,0,Yes,No,No,0,No,Maybe,0,No,NA
+8/27/14 22:21,43,M,1,0,United States,WA,No,0,0,0,500-1000,Yes,Yes,0,0,0,0,Don't know,0,No,No,Yes,1,No,No,1,No,NA
+8/27/14 22:26,31,M,1,0,United States,NY,No,1,1,1,100-500,No,Yes,0,0,0,0,Don't know,0,Yes,Yes,Some of them,0,No,No,0,Yes,NA
+8/27/14 22:32,29,M,1,0,United States,CA,No,1,0,1,100-500,No,Yes,1,1,1,1,Don't know,0,No,No,Some of them,1,No,No,0,No,NA
+8/27/14 22:35,35,M,1,0,United States,TN,Yes,1,0,0,25-Jun,Yes,Yes,0,0,1,1,Don't know,1,No,No,Yes,1,No,Maybe,1,No,The supposed divide between mental and physical health needs to done away with and probably will be as our knowledge of the brain increases. That said we are often employed for our ability to provide value. If any issue prevents is from providing value that creates a very real challenge for the employer who is responsible to shareholders and other team members who are providing value. There are no easy answers here.
+8/27/14 22:59,27,M,1,0,United States,PA,No,0,0,0,More than 1000,No,Yes,1,0,0,0,Yes,0,Maybe,Maybe,No,0,No,Maybe,0,No,NA
+8/27/14 23:09,32,M,1,0,United States,MI,No,0,0,1,100-500,No,Yes,0,1,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/27/14 23:10,50,M,1,0,United States,WY,No,0,0,1,5-Jan,Yes,Yes,0,0,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,Maybe,0,No,I work for a very small firm that doesn't really have a dedicated H/R person. Also for the question:If you have a mental health condition do you feel that it interferes with your work?...I don't have a diagnosed mental health condition but I suspect I might have some slight depression issues. Definitely have Imposter Syndrome.
+8/27/14 23:14,27,M,1,0,United States,NY,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,No,No,Yes,1,No,Maybe,1,No,NA
+8/27/14 23:54,32,M,1,0,United States,TX,No,0,1,1,25-Jun,No,Yes,0,1,0,0,Yes,1,No,No,Some of them,1,Maybe,Maybe,1,No,I went through a divorce and was pretty depressed I went to therapy and my boss (one of the owners) was extremely supportive. I'm not sure I would have got through that rough time with out my co-workers and boss.
+8/28/14 0:02,29,M,1,0,United States,WA,No,0,0,1,More than 1000,No,Yes,1,0,0,0,Don't know,1,Yes,Maybe,Some of them,0,No,No,0,No,NA
+8/28/14 0:05,30,M,1,0,United States,GA,Yes,0,1,1,25-Jun,Yes,Yes,0,0,0,1,Don't know,0,No,No,Yes,1,No,Maybe,1,No,NA
+8/28/14 0:17,35,M,1,0,United States,MI,No,0,0,0,26-100,No,Yes,1,0,1,0,Don't know,0,No,No,Some of them,0,Maybe,Maybe,1,No,NA
+8/28/14 1:30,31,F,0,1,United States,WA,No,0,1,1,26-100,Yes,Yes,1,1,0,0,Don't know,1,Maybe,No,Some of them,0,No,Yes,0,No,NA
+8/28/14 1:38,23,F,0,1,United States,CA,No,1,1,1,More than 1000,No,Yes,1,1,1,1,Yes,1,Yes,Maybe,No,0,No,No,0,No,NA
+8/28/14 1:41,31,F,0,1,United States,OR,No,1,1,1,100-500,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,No,No,0,No,NA
+8/28/14 1:56,28,F,0,1,United States,CA,No,1,1,1,500-1000,No,Yes,1,1,1,1,Don't know,0,Maybe,No,No,0,No,No,0,No,NA
+8/28/14 2:17,34,M,1,0,United States,CA,Yes,1,1,1,25-Jun,No,Yes,0,1,0,0,Yes,1,No,No,Some of them,0,No,No,0,No,thanks for what you're doing. FYI these questions dont quite work for entrepreneurs where employer == cofounders / sr mgmt / me
+8/28/14 2:30,28,M,1,0,United States,MI,No,1,1,1,26-100,Yes,Yes,1,0,0,0,Don't know,0,Yes,No,Some of them,0,No,No,0,Yes,NA
+8/28/14 2:41,56,M,1,0,United States,MA,No,1,1,1,25-Jun,No,Yes,1,1,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,No,0,No,NA
+8/28/14 2:49,34,F,0,1,United States,CA,No,0,1,1,100-500,Yes,Yes,1,1,0,0,Don't know,1,Maybe,No,Some of them,1,No,No,1,No,NA
+8/28/14 3:13,35,M,1,0,United States,NA,Yes,0,0,0,5-Jan,Yes,Yes,1,0,0,0,Yes,1,No,No,Some of them,1,No,No,1,No,NA
+8/28/14 3:36,57,M,1,0,United States,CA,No,0,0,0,26-100,No,Yes,1,1,0,1,Yes,0,Yes,Maybe,No,0,No,Maybe,0,Yes,NA
+8/28/14 5:14,32,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/28/14 7:03,23,M,1,0,United States,NC,No,1,0,1,25-Jun,No,Yes,0,0,0,0,Don't know,0,Maybe,No,No,0,No,Maybe,0,No,NA
+8/28/14 8:39,29,F,0,1,United States,OH,No,1,1,1,25-Jun,No,Yes,0,0,0,0,Don't know,0,Yes,No,No,0,No,No,0,No,NA
+8/28/14 8:43,45,M,1,0,United States,VA,No,0,1,1,5-Jan,Yes,Yes,1,0,0,1,Don't know,1,No,No,Yes,1,No,Maybe,1,No,NA
+8/28/14 9:40,33,F,0,1,United States,NC,No,1,1,1,More than 1000,No,Yes,1,1,1,1,Yes,1,No,No,Some of them,1,No,No,1,No,NA
+8/28/14 9:53,49,M,1,0,United States,NY,No,1,1,1,100-500,No,Yes,1,0,1,1,Yes,1,Maybe,Maybe,Some of them,1,No,No,1,No,NA
+8/28/14 9:53,28,M,1,0,United States,NM,No,0,0,0,26-100,Yes,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/28/14 9:57,29,M,1,0,United States,SC,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/28/14 9:57,33,M,1,0,United States,WA,Yes,1,1,1,5-Jan,Yes,Yes,0,1,1,1,No,0,No,No,Yes,1,No,No,1,Yes,NA
+8/28/14 9:58,37,M,1,0,United States,CA,No,1,1,1,100-500,No,Yes,1,1,0,0,Yes,0,Maybe,No,Yes,1,No,No,0,No,NA
+8/28/14 10:01,26,M,1,0,United States,NY,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,Yes,Yes,Some of them,0,No,No,0,No,NA
+8/28/14 10:01,32,M,1,0,United States,NY,Yes,0,1,1,5-Jan,Yes,Yes,0,0,0,0,Don't know,1,No,No,Yes,1,Yes,Yes,0,No,NA
+8/28/14 10:02,37,F,0,1,United States,MO,No,0,0,0,26-100,Yes,Yes,0,0,0,0,Don't know,0,Yes,No,Some of them,0,No,No,0,No,NA
+8/28/14 10:02,29,M,1,0,United States,NY,No,0,1,1,26-100,No,Yes,1,1,0,0,Yes,1,No,No,Yes,1,Maybe,Maybe,1,No,NA
+8/28/14 10:04,30,M,1,0,United States,TN,No,1,0,0,100-500,No,Yes,0,0,0,0,Don't know,1,No,No,Some of them,1,No,Maybe,0,No,NA
+8/28/14 10:05,29,M,1,0,United States,CO,No,0,0,0,25-Jun,No,Yes,1,1,0,1,Yes,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/28/14 10:07,32,M,1,0,United States,PA,Yes,1,1,1,5-Jan,Yes,Yes,1,1,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,No,0,No,NA
+8/28/14 10:08,37,M,1,0,United States,NY,Yes,0,0,0,25-Jun,Yes,Yes,1,1,1,0,Yes,1,No,No,Yes,1,Maybe,Maybe,1,No,NA
+8/28/14 10:11,27,M,1,0,United States,MN,No,0,0,0,26-100,No,Yes,1,0,0,0,Don't know,0,No,No,Yes,1,No,No,0,No,NA
+8/28/14 10:17,25,M,1,0,United States,MO,No,1,1,0,25-Jun,Yes,Yes,0,0,1,0,Don't know,0,Yes,No,Some of them,1,No,No,0,No,NA
+8/28/14 10:30,29,M,1,0,United States,MD,No,0,0,0,25-Jun,Yes,Yes,0,0,0,0,Don't know,1,No,No,Yes,1,No,No,0,No,NA
+8/28/14 11:04,31,M,1,0,United States,TX,No,1,1,1,26-100,No,Yes,1,1,0,0,Don't know,1,Maybe,No,Some of them,1,Maybe,Yes,0,No,NA
+8/28/14 11:04,36,M,1,0,United States,OH,No,0,1,1,100-500,Yes,Yes,1,1,0,0,Don't know,0,Maybe,Maybe,Some of them,0,Maybe,Maybe,0,No,I am a 15 year vet of the industry and I get 2 weeks of combined sick and vacation time a year and I have children to fit into that too. I've had heart problems from the stress. Fuck everything about startup culture. 
+8/28/14 11:07,30,M,1,0,United States,TX,Yes,0,1,1,26-100,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,No,Yes,0,No,NA
+8/28/14 11:14,35,M,1,0,United States,CA,No,1,1,1,25-Jun,No,Yes,1,1,1,1,Yes,1,No,No,Some of them,1,No,No,1,No,Since I am the CEO of my startup some of the would you feel comfortable and do you know the policy questions are interesting.  Of course I feel comfortable since no one can fire me and I know the policies because I chose them!However now I am curious if my employees know just how supportive the company would be of their mental health needs and this survey is making me realize that we probably haven't done a great job communicating that to everyone.  Thanks for doing this.
+8/28/14 11:21,37,M,1,0,United States,MI,No,1,1,1,100-500,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/28/14 11:22,36,M,1,0,United States,CA,No,0,0,0,More than 1000,No,Yes,1,1,1,1,Yes,1,No,No,Some of them,1,No,No,1,No,NA
+8/28/14 11:29,26,M,1,0,United States,CA,No,1,1,1,More than 1000,No,Yes,1,0,1,0,Don't know,0,Yes,Maybe,No,0,No,Maybe,0,No,NA
+8/28/14 11:47,27,F,0,1,United States,CA,No,0,1,1,100-500,No,Yes,0,0,1,0,Don't know,1,Yes,No,Some of them,0,No,Maybe,0,No,NA
+8/28/14 11:50,33,F,0,1,United States,AZ,Yes,1,1,1,5-Jan,No,Yes,1,1,1,1,Yes,1,Maybe,Yes,Some of them,0,No,No,0,No,NA
+8/28/14 11:54,36,F,0,1,United States,CA,No,0,1,0,25-Jun,Yes,Yes,1,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/28/14 12:02,33,M,1,0,United States,VA,Yes,1,1,1,5-Jan,Yes,Yes,0,1,0,0,Yes,1,Maybe,Maybe,Yes,1,No,No,1,No,My current work situation was constructed in part because of my mental health issues. One of the reasons I'm self employed is to give me the most flexibility for coping with my mental health issues.I have been removed from a client project in the past because of a mental health condition. This was while I was an employee for a large consulting company. 
+8/28/14 12:09,43,M,1,0,United States,VA,No,0,0,1,25-Jun,Yes,Yes,0,0,0,0,Don't know,0,Maybe,No,No,0,No,Maybe,0,No,NA
+8/28/14 12:10,27,F,0,1,United States,WA,No,0,0,0,More than 1000,No,Yes,0,0,0,1,Don't know,0,Maybe,No,Some of them,1,No,No,0,No,NA
+8/28/14 12:19,33,M,1,0,United States,WI,No,0,1,1,25-Jun,Yes,Yes,0,1,0,0,Yes,0,No,No,Yes,1,Yes,Yes,0,No,NA
+8/28/14 12:22,33,M,1,0,United States,CA,Yes,0,0,0,5-Jan,No,Yes,0,0,0,0,Don't know,0,No,No,Yes,1,No,Maybe,0,No,NA
+8/28/14 12:23,25,M,1,0,United States,CA,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,No,0,No,NA
+8/28/14 12:42,25,M,1,0,United States,CO,No,1,1,1,26-100,No,Yes,1,1,0,0,Yes,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/28/14 13:01,33,M,1,0,United States,NY,No,0,1,1,More than 1000,No,Yes,1,1,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/28/14 13:04,37,F,0,1,United States,TX,No,0,1,1,25-Jun,Yes,Yes,0,0,0,0,Yes,0,Yes,No,Some of them,0,No,Yes,0,Yes,NA
+8/28/14 13:11,22,F,0,1,United States,WA,No,1,1,1,More than 1000,No,Yes,0,0,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,Maybe,0,Yes,NA
+8/28/14 13:17,38,M,1,0,United States,MI,No,0,0,0,26-100,No,Yes,1,1,0,0,Don't know,1,Maybe,No,Some of them,1,No,Maybe,0,Yes,NA
+8/28/14 13:26,32,F,0,1,United States,CA,No,1,1,1,100-500,No,Yes,1,0,0,0,Don't know,0,Yes,No,Some of them,1,No,No,0,No,NA
+8/28/14 13:35,35,F,0,1,United States,CA,No,0,1,1,100-500,Yes,Yes,0,0,0,0,Don't know,1,Maybe,No,Some of them,0,No,Maybe,1,No,It might be safe to talk about it where I am now but I don't know for sure and I err on the side of being over cautious. Struggle with depression and anxiety which sometimes affects my productivity but I try to make up / cover up for it instead of being open about it.
+8/28/14 13:39,23,M,1,0,United States,CA,No,1,1,1,25-Jun,No,Yes,0,1,0,0,Don't know,1,No,No,Some of them,1,Maybe,Maybe,1,No,NA
+8/28/14 13:40,39,M,1,0,United States,CT,No,0,0,0,26-100,Yes,Yes,1,0,0,0,Don't know,0,Yes,Maybe,No,0,No,No,0,No,NA
+8/28/14 13:41,30,F,0,1,United States,CA,No,0,0,0,More than 1000,No,Yes,1,1,1,1,Yes,1,No,No,Some of them,0,No,No,1,No,NA
+8/28/14 13:47,28,F,0,1,United States,CA,No,0,1,1,26-100,No,Yes,0,1,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,No,0,Yes,NA
+8/28/14 13:54,36,F,0,1,United States,CA,No,1,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,0,No,No,No,0,No,Maybe,1,No,NA
+8/28/14 13:57,27,M,1,0,United States,IN,No,0,0,0,26-100,Yes,Yes,0,0,0,0,Don't know,1,No,No,Yes,1,Maybe,Maybe,1,No,NA
+8/28/14 14:00,41,M,1,0,United States,TX,No,1,0,1,More than 1000,No,Yes,1,1,0,1,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/28/14 14:12,28,M,1,0,United States,NV,No,0,1,0,25-Jun,Yes,Yes,0,1,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/28/14 14:31,39,F,0,1,United States,WA,No,0,0,1,26-100,No,Yes,0,0,0,0,Don't know,0,Yes,No,No,0,No,Yes,0,No,NA
+8/28/14 14:38,39,M,1,0,United States,FL,No,1,1,1,500-1000,No,Yes,1,1,1,1,Yes,0,Maybe,No,Some of them,1,No,No,0,No,NA
+8/28/14 14:41,44,M,1,0,United States,NA,Yes,1,1,1,5-Jan,Yes,Yes,0,1,0,0,No,1,Yes,Yes,Some of them,0,No,No,1,No,NA
+8/28/14 14:53,38,M,1,0,United States,IL,No,0,0,0,More than 1000,Yes,Yes,0,1,0,0,No,0,Yes,Yes,No,0,No,No,0,No,NA
+8/28/14 14:57,34,M,1,0,United States,FL,No,0,0,0,More than 1000,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,Maybe,1,No,NA
+8/28/14 15:01,43,M,1,0,United States,MA,No,0,0,0,More than 1000,No,Yes,1,0,1,1,Don't know,0,No,No,Some of them,1,No,Maybe,0,No,NA
+8/28/14 15:25,48,F,0,1,United States,CA,No,1,0,1,26-100,No,Yes,0,0,0,0,No,0,Yes,Yes,No,0,No,No,0,Yes,None of us who are already in marginal groups in tech--the non-young the non-male the non-white--will risk our careers to admit another source of stigma: poor health.
+8/28/14 15:32,20,M,1,0,United States,WA,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,Maybe,Maybe,1,No,NA
+8/28/14 15:37,40,M,1,0,United States,MI,Yes,0,0,1,5-Jan,Yes,Yes,0,0,0,0,Don't know,1,Yes,Maybe,Some of them,0,No,No,0,No,NA
+8/28/14 15:50,40,M,1,0,United States,CA,No,0,0,0,100-500,No,Yes,1,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/28/14 15:54,29,F,0,1,United States,CA,No,1,1,1,100-500,No,Yes,1,0,0,0,Don't know,0,No,No,Yes,1,No,Maybe,0,No,NA
+8/28/14 15:56,34,M,1,0,United States,TX,No,0,1,1,5-Jan,No,Yes,0,0,0,0,Don't know,0,Yes,No,No,0,No,Yes,0,No,NA
+8/28/14 16:17,24,F,0,1,United States,NY,No,1,1,1,25-Jun,No,Yes,1,1,0,0,Yes,1,No,No,Some of them,1,No,Yes,0,Yes,NA
+8/28/14 16:31,47,F,0,1,United States,PA,No,0,0,0,100-500,Yes,Yes,0,0,0,0,Don't know,0,Yes,Yes,No,0,No,No,0,No,NA
+8/28/14 16:52,36,M,1,0,United States,PA,No,0,0,1,More than 1000,No,Yes,1,1,1,1,Yes,0,No,No,Some of them,1,No,No,0,No,NA
+8/28/14 16:54,31,F,0,1,United States,NY,No,1,1,1,100-500,No,Yes,1,1,0,0,Don't know,0,No,No,Yes,1,Maybe,Maybe,0,No,I have been incredibly public about my own struggle in my own conversations and in social media insofar as how I can use my depression to raise awareness or help others. Because of that my employer - or any future employer - kind of knows by default. It's not a secret. That said the downside of that openness is that I have no faith that I wouldn't be discriminated against at a future job simply because the information is public. Likewise I worry I'm seen as less-than by my employer in some circumstances. Regerdless I don't regret being public and raising awareness. My point is that even those of us who do publicly discuss the issue fear systemic retribution. 
+8/28/14 16:55,35,M,1,0,United States,CA,No,0,0,1,More than 1000,No,Yes,0,0,1,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/28/14 16:56,34,M,1,0,United States,TN,No,0,1,1,100-500,No,Yes,0,0,1,0,Yes,0,Maybe,No,Some of them,0,No,No,0,No,At a previous employer I witness a bad thing happen to a coworker with mental health issues get swept under the rug... :(
+8/28/14 16:57,40,M,1,0,United States,TN,Yes,1,1,1,5-Jan,Yes,Yes,0,1,0,0,Yes,1,No,No,Yes,1,No,No,1,No,NA
+8/28/14 16:57,40,M,1,0,United States,IL,No,0,0,1,More than 1000,No,Yes,1,1,1,1,Yes,0,No,No,Some of them,0,No,Maybe,0,No,While not personally affected I do have immediate family with mental health illness and my employer has been very supportive. Thanks for doing this survey.
+8/28/14 16:57,42,M,1,0,United States,WI,No,0,1,1,5-Jan,Yes,Yes,0,1,0,0,Don't know,1,Maybe,No,No,0,No,Maybe,0,No,NA
+8/28/14 16:58,23,M,1,0,United States,KY,No,1,0,0,26-100,Yes,Yes,1,1,0,0,Yes,0,Maybe,No,No,0,No,No,0,No,NA
+8/28/14 17:01,31,M,1,0,United States,NA,No,1,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/28/14 17:01,25,M,1,0,United States,CA,No,1,0,0,More than 1000,No,Yes,1,1,1,1,Yes,1,No,No,Some of them,1,Maybe,Yes,1,No,NA
+8/28/14 17:01,51,M,1,0,United States,MN,No,0,0,0,More than 1000,Yes,Yes,1,1,1,1,Yes,1,No,No,Yes,1,No,No,1,No,NA
+8/28/14 17:02,24,M,1,0,United States,TN,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Yes,1,No,No,Some of them,1,No,Maybe,0,No,NA
+8/28/14 17:02,33,M,1,0,United States,MN,No,0,0,0,100-500,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,1,No,No,0,No,The company I work for was started by engineers and so anything other then the engineering department has always lacked a bit. Now that we've grown things are better but I feel that overall our total benefits package (including healthcare) isn't well communicated. This reflects negatively on the mental health questions above but would also reflect negatively on any other sort of survey about the benefits. That is I don't think the company is purposefully doing less for mental health. They just aren't doing enough across the board and that includes mental health.
+8/28/14 17:07,33,M,1,0,United States,TN,No,1,1,1,25-Jun,Yes,Yes,0,1,0,0,Don't know,0,Yes,No,Some of them,1,No,Maybe,0,No,NA
+8/28/14 17:09,35,M,1,0,United States,DC,No,1,1,1,25-Jun,No,Yes,1,1,0,0,Don't know,1,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/28/14 17:10,39,M,1,0,United States,KS,No,0,0,0,5-Jan,Yes,Yes,0,1,0,0,Don't know,0,Maybe,Maybe,Some of them,1,Maybe,Maybe,0,No,Thank you for all you are doing to study this topic and raise awareness in our communities. 
+8/28/14 17:11,56,M,1,0,United States,CA,No,0,1,1,More than 1000,Yes,Yes,1,1,0,1,Yes,1,No,No,Yes,1,Yes,Yes,1,No,NA
+8/28/14 17:16,39,M,1,0,United States,TN,No,0,0,0,More than 1000,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,No,0,No,NA
+8/28/14 17:19,30,M,1,0,United States,CA,Yes,1,1,1,25-Jun,Yes,Yes,0,0,0,0,Don't know,0,Yes,No,No,0,No,Maybe,0,No,The main reason for the openness answers are because of an experience with my last employer. I felt I could trust my direct supervisor so I divulged information. It ended up spreading to more supervisors and eventually my coworkers. Supers highly suggested treatment but rushed things that shouldn't have been rushed and I ended up being incorrectly treated in a psych ward and mentally scarred from the issue. I lost most of my desire to program due to the experience not to mention thousands of dollars I lost - lost work time vacation time they used for treatment time doctors expenses etc. I have major depressive disorder high anxiety and mild agoraphobia. After seeing what treatment has to offer I will likely not seek it again and continue as is. (Long story short.)
+8/28/14 17:19,31,M,1,0,United States,TN,No,0,0,0,26-100,No,Yes,1,0,1,0,Yes,1,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/28/14 17:21,31,M,1,0,United States,CO,No,0,1,0,26-100,No,Yes,1,1,0,0,Yes,1,Maybe,No,No,0,No,No,0,No,NA
+8/28/14 17:21,29,M,1,0,United States,TN,No,1,1,1,26-100,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,1,No,NA
+8/28/14 17:22,30,M,1,0,United States,GA,No,0,0,0,26-100,Yes,Yes,1,1,0,0,Yes,1,No,No,Some of them,1,Maybe,Maybe,1,No,NA
+8/28/14 17:22,37,M,1,0,United States,TN,No,0,0,0,500-1000,Yes,Yes,1,0,1,0,Don't know,0,Maybe,No,Some of them,1,No,No,1,Yes,(yes but the situation was unusual and involved a change in leadership at a very high level in the organization as well as an extended leave of absence)
+8/28/14 17:23,36,M,1,0,United States,VA,Yes,0,0,0,5-Jan,No,Yes,1,0,0,0,Don't know,0,No,No,Some of them,1,Yes,Yes,1,No,NA
+8/28/14 17:27,35,M,1,0,United States,TN,No,1,1,1,26-100,Yes,Yes,1,1,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,Maybe,0,No,NA
+8/28/14 17:33,39,M,1,0,United States,TN,No,1,0,1,More than 1000,No,Yes,1,0,1,1,Don't know,0,Maybe,Maybe,Some of them,1,Maybe,Maybe,0,Yes,I would add that while there were negative consequences for coworkers with mental health they were given a HUGE amount of leeway.  I think the team at large tried their best to be kind but that's how the person suffered.  The company actually gave this person a lot of help.  Which was cool.  But the team still discriminated.
+8/28/14 17:34,32,M,1,0,United States,TN,Yes,1,1,1,5-Jan,Yes,Yes,0,1,0,0,Don't know,0,Yes,No,Some of them,0,No,Maybe,0,No,NA
+8/28/14 17:35,29,M,1,0,United States,TN,No,1,0,0,100-500,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,No,0,No,NA
+8/28/14 17:36,30,M,1,0,United States,TN,No,1,0,0,100-500,No,Yes,1,0,0,1,Don't know,0,Yes,Yes,Some of them,0,Maybe,Maybe,0,No,NA
+8/28/14 17:39,40,M,1,0,United States,TN,No,1,1,1,500-1000,Yes,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,Yes,0,No,Bipolar spectrum is tricky.
+8/28/14 17:46,33,M,1,0,United States,IN,No,0,0,0,More than 1000,No,Yes,1,1,1,1,Yes,1,No,No,Some of them,1,No,No,1,No,NA
+8/28/14 17:47,50,M,1,0,United States,VA,Yes,0,0,0,5-Jan,Yes,Yes,0,1,0,0,Yes,1,No,No,Some of them,1,No,Maybe,1,No,A lot of these answers aren't really applicable since I'm self employed as a sole proprietor.
+8/28/14 17:50,24,M,1,0,United States,TX,No,0,0,1,26-100,Yes,Yes,0,0,0,0,Don't know,1,No,No,Some of them,1,No,Maybe,0,No,NA
+8/28/14 17:57,25,F,0,1,United States,CA,Yes,0,1,1,5-Jan,No,Yes,1,1,1,1,Yes,1,Maybe,Maybe,Some of them,0,No,No,1,Yes,NA
+8/28/14 17:59,51,M,1,0,United States,CO,Yes,0,0,0,5-Jan,No,Yes,0,1,0,0,Yes,0,No,No,Some of them,0,Maybe,Maybe,0,No,NA
+8/28/14 17:59,49,M,1,0,United States,OR,No,1,1,1,More than 1000,No,Yes,1,1,0,1,Yes,0,Yes,Maybe,No,0,No,Maybe,0,Yes,NA
+8/28/14 18:01,30,M,1,0,United States,OK,No,0,0,0,More than 1000,Yes,Yes,1,0,1,1,Don't know,0,Yes,Maybe,No,0,No,No,0,No,NA
+8/28/14 18:02,25,F,0,1,United States,OH,No,1,1,1,More than 1000,No,Yes,1,1,1,0,Don't know,0,Yes,Yes,No,0,No,No,0,No,While I have not seen any direct retaliation against people with known mental illness many people do freely use insults commonly associated with mental illness (r****d for example) and criticize people behind their back for taking extra leave for doctor appointments (Oh I bet they are just hung over or other comments about how lazy they are.)
+8/28/14 18:07,36,M,1,0,United States,TN,No,0,1,1,500-1000,Yes,Yes,1,1,0,0,Don't know,0,Maybe,No,No,0,No,Maybe,0,No,NA
+8/28/14 18:17,48,M,1,0,United States,VA,No,0,1,0,More than 1000,No,Yes,1,1,1,1,Yes,0,Maybe,Maybe,Yes,1,No,Maybe,1,Yes,NA
+8/28/14 18:21,53,M,1,0,United States,OR,No,0,1,1,25-Jun,Yes,Yes,1,1,0,1,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/28/14 18:26,33,M,1,0,United States,OR,No,1,1,1,26-100,No,Yes,0,1,0,1,Don't know,1,No,No,Yes,1,No,No,0,No,NA
+8/28/14 19:04,30,M,1,0,United States,PA,Yes,0,0,0,5-Jan,Yes,Yes,0,1,0,0,Yes,1,Maybe,Maybe,Some of them,0,Maybe,Maybe,0,No,NA
+8/28/14 19:26,31,M,1,0,United States,SC,No,0,0,0,More than 1000,Yes,Yes,1,1,1,1,Yes,1,No,No,Some of them,1,Maybe,Yes,1,No,NA
+8/28/14 19:28,22,F,0,1,United States,CA,No,1,1,1,More than 1000,No,Yes,0,0,0,0,Don't know,0,Yes,Yes,No,0,No,No,0,No,NA
+8/28/14 19:35,28,M,1,0,United States,TN,No,1,0,1,25-Jun,No,Yes,0,0,0,0,Don't know,1,No,No,Some of them,1,No,Yes,0,No,NA
+8/28/14 21:22,33,M,1,0,United States,MO,No,1,0,0,500-1000,No,Yes,1,0,0,0,Don't know,1,No,No,Yes,1,Yes,Yes,1,No,NA
+8/28/14 21:24,29,M,1,0,United States,CA,No,0,0,1,More than 1000,No,Yes,1,0,1,0,Don't know,0,Yes,Maybe,No,0,No,No,0,No,NA
+8/28/14 21:30,29,M,1,0,United States,NY,No,0,0,0,26-100,No,Yes,1,1,1,1,Don't know,1,No,No,Some of them,0,Maybe,Maybe,1,No,NA
+8/28/14 21:33,25,M,1,0,United States,TX,No,0,0,0,100-500,Yes,Yes,1,0,0,0,Yes,0,No,No,Yes,1,Maybe,Maybe,0,No,NA
+8/28/14 21:38,31,M,1,0,United States,MO,No,1,0,0,100-500,No,Yes,0,0,0,0,Don't know,1,No,No,Some of them,1,No,No,0,No,NA
+8/28/14 21:47,34,M,1,0,United States,TX,No,0,0,1,5-Jan,No,Yes,0,0,0,1,Don't know,1,No,No,Some of them,1,No,Maybe,1,No,* Small family business - YMMV.
+8/28/14 22:16,43,M,1,0,United States,WA,No,0,1,1,100-500,Yes,Yes,1,1,0,1,Yes,0,Yes,Maybe,Some of them,0,No,Maybe,0,Yes,* Small family business - YMMV.
+8/28/14 22:17,38,M,1,0,United States,WA,No,1,1,1,100-500,No,Yes,0,0,0,0,Don't know,0,Yes,Yes,No,0,No,Maybe,0,No,* Small family business - YMMV.
+8/28/14 22:18,26,M,1,0,United States,WA,No,1,1,1,More than 1000,No,Yes,0,0,0,1,Yes,0,Maybe,No,Some of them,0,Yes,Yes,0,Yes,* Small family business - YMMV.
+8/28/14 22:22,42,M,1,0,United States,TX,No,0,1,1,25-Jun,No,Yes,0,0,0,0,Don't know,0,Yes,Maybe,No,0,No,Maybe,0,No,NA
+8/28/14 22:35,32,M,1,0,United States,WA,No,0,1,1,More than 1000,No,Yes,1,1,1,1,Yes,1,Maybe,No,Some of them,0,No,No,0,No,NA
+8/28/14 22:39,44,M,1,0,United States,WA,No,1,1,1,25-Jun,Yes,Yes,1,1,1,1,Yes,0,Maybe,Maybe,Some of them,1,No,Maybe,0,No,NA
+8/28/14 22:46,28,M,1,0,United States,WA,No,1,1,1,More than 1000,No,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+8/28/14 23:03,40,M,1,0,United States,WA,No,1,1,1,More than 1000,Yes,Yes,1,1,1,1,Yes,0,Yes,No,Some of them,0,No,Maybe,0,Yes,NA
+8/28/14 23:13,31,F,0,1,United States,AZ,No,1,1,1,500-1000,No,Yes,1,1,0,0,Yes,1,Maybe,No,Some of them,1,No,No,1,No,NA
+8/28/14 23:16,32,M,1,0,United States,WA,No,1,0,1,100-500,No,Yes,1,1,1,1,Don't know,0,Yes,No,Some of them,0,No,No,0,No,NA
+8/28/14 23:57,28,M,1,0,United States,WA,No,1,1,1,More than 1000,No,Yes,0,0,0,0,Don't know,1,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/29/14 0:05,39,M,1,0,United States,AZ,No,1,1,1,26-100,No,Yes,1,1,0,0,Yes,0,Yes,No,Some of them,0,No,No,0,No,NA
+8/29/14 0:11,43,M,1,0,United States,WA,No,0,1,1,More than 1000,No,Yes,1,1,1,1,Don't know,1,No,No,Yes,1,Maybe,Yes,1,No,I have an exceptional employer. I haven't run into problems with any employer I've had but consider myself lucky.
+8/29/14 0:41,35,M,1,0,United States,CA,No,0,1,1,More than 1000,No,Yes,1,1,0,1,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/29/14 0:43,40,M,1,0,United States,WA,No,1,1,1,25-Jun,No,Yes,1,1,0,0,Yes,1,Maybe,No,Some of them,0,No,No,0,No,NA
+8/29/14 1:40,36,F,0,1,United States,WA,No,1,1,1,25-Jun,No,Yes,0,0,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,No,0,No,NA
+8/29/14 2:10,38,M,1,0,United States,TN,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Yes,0,Maybe,No,Some of them,1,Maybe,Maybe,0,No,Some of these should not be required.
+8/29/14 3:08,26,M,1,0,United States,CA,No,0,1,1,More than 1000,No,Yes,1,0,0,0,Don't know,0,No,No,Some of them,0,No,Maybe,0,No,NA
+8/29/14 7:12,43,M,1,0,United States,MI,No,0,0,1,More than 1000,Yes,Yes,0,0,0,0,Don't know,0,Yes,Maybe,No,0,No,Maybe,0,Yes,NA
+8/29/14 7:28,40,M,1,0,United States,IN,No,1,1,1,25-Jun,No,Yes,0,0,0,0,Don't know,0,No,No,Yes,1,No,Maybe,0,No,NA
+8/29/14 7:51,49,M,1,0,United States,GA,No,1,0,0,More than 1000,No,Yes,1,1,1,1,Yes,0,No,No,Yes,1,No,No,1,No,Thank you for shining a light on this topic.
+8/29/14 8:46,38,M,1,0,United States,WA,No,0,0,0,More than 1000,No,Yes,1,1,1,1,Yes,1,Maybe,Maybe,Some of them,0,No,Maybe,0,Yes,NA
+8/29/14 8:57,40,M,1,0,United States,ME,No,1,1,1,5-Jan,Yes,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,1,No,Maybe,0,No,NA
+8/29/14 9:01,28,M,1,0,United States,NY,No,1,1,1,100-500,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,Yes,0,No,NA
+8/29/14 9:10,23,M,1,0,United States,PA,No,1,0,1,26-100,No,Yes,1,0,1,1,Yes,1,No,No,No,0,No,Maybe,0,No,NA
+8/29/14 9:14,30,F,0,1,United States,IL,No,1,1,1,26-100,No,Yes,1,1,1,0,Yes,1,No,No,Some of them,0,No,No,1,No,NA
+8/29/14 9:24,39,M,1,0,United States,MN,No,0,1,1,100-500,Yes,Yes,1,1,0,0,Yes,1,Maybe,No,Some of them,1,No,No,0,No,NA
+8/29/14 9:29,25,M,1,0,United States,PA,No,1,1,1,25-Jun,Yes,Yes,1,1,0,0,Yes,1,No,No,Yes,1,Maybe,Maybe,0,No,NA
+8/29/14 9:31,42,M,1,0,United States,IN,No,1,1,1,25-Jun,Yes,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,1,No,Maybe,0,No,NA
+8/29/14 9:31,34,M,1,0,United States,PA,No,1,1,1,100-500,No,Yes,1,1,0,0,Yes,1,No,No,Yes,1,Maybe,Maybe,0,No,NA
+8/29/14 9:33,26,F,0,1,United States,OH,No,0,1,1,26-100,Yes,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,Maybe,Maybe,0,Yes,NA
+8/29/14 9:40,34,M,1,0,United States,SD,No,0,0,1,100-500,No,Yes,0,0,0,0,Don't know,0,Yes,No,Some of them,0,No,Maybe,0,No,NA
+8/29/14 9:42,39,M,1,0,United States,IN,No,1,1,1,25-Jun,Yes,Yes,0,1,0,0,Yes,1,No,No,Some of them,1,Maybe,Yes,1,No,NA
+8/29/14 9:46,44,F,0,1,United States,CA,No,0,0,0,100-500,No,Yes,0,0,0,0,Don't know,0,Yes,No,No,0,No,No,0,No,NA
+8/29/14 9:47,33,F,0,1,United States,TX,Yes,0,0,0,5-Jan,Yes,Yes,0,1,0,0,Yes,1,Maybe,No,No,0,No,No,1,No,NA
+8/29/14 9:53,38,F,0,1,United States,OR,No,1,0,1,26-100,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,No,0,No,NA
+8/29/14 9:53,31,M,1,0,United States,SD,No,0,0,1,More than 1000,No,Yes,1,0,1,1,Yes,0,Yes,Maybe,Some of them,0,No,Maybe,1,No,NA
+8/29/14 9:54,26,F,0,1,United States,NY,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,1,No,No,Yes,1,No,Maybe,1,No,NA
+8/29/14 9:59,30,M,1,0,United States,CA,No,1,1,1,26-100,Yes,Yes,1,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/29/14 10:03,25,M,1,0,United States,NA,No,0,0,1,26-100,Yes,Yes,0,0,0,0,Don't know,1,Yes,No,Some of them,0,No,Yes,0,Yes,My work is using my brain. I do it incredibly well.I make an effort to avoid diagnosis of anything mental health related because I am convinced it would only affect me negatively.
+8/29/14 10:12,32,M,1,0,United States,TN,No,0,0,0,25-Jun,No,Yes,1,1,1,1,Don't know,1,No,No,Yes,1,No,Maybe,1,No,NA
+8/29/14 10:13,37,M,1,0,United States,IN,No,1,0,1,26-100,Yes,Yes,0,0,0,0,Don't know,1,Maybe,No,Some of them,0,No,Maybe,0,No,My employer is extremely easy to work with and e.g. I have enormous leeway with flex time so I could take care of myself under that umbrella but I don't know and don't have a history of bring up mental health at the workplace so I am cautious in that area.
+8/29/14 10:16,42,M,1,0,United States,CA,No,1,1,1,25-Jun,Yes,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+8/29/14 10:27,25,F,0,1,United States,OR,No,0,0,0,More than 1000,No,Yes,1,1,1,1,Don't know,0,Maybe,No,Some of them,1,Maybe,No,1,No,NA
+8/29/14 10:30,19,M,1,0,United States,IN,No,0,0,1,5-Jan,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,Maybe,Maybe,0,No,NA
+8/29/14 10:32,40,F,0,1,United States,GA,No,1,0,0,100-500,Yes,Yes,1,1,1,0,Don't know,0,Yes,Yes,No,0,No,No,0,No,NA
+8/29/14 10:38,26,M,1,0,United States,MN,No,1,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,No,1,No,NA
+8/29/14 10:38,31,M,1,0,United States,MN,No,1,1,1,25-Jun,No,Yes,0,0,0,0,Yes,0,No,No,Yes,1,Maybe,Maybe,1,No,NA
+8/29/14 10:59,31,F,0,1,United States,FL,No,1,1,1,26-100,No,Yes,0,0,0,0,No,0,Yes,No,No,0,No,Yes,0,Yes,NA
+8/29/14 11:11,34,F,0,1,United States,CA,No,0,0,1,5-Jan,No,Yes,0,0,0,0,Don't know,1,No,No,Some of them,1,No,Maybe,1,No,NA
+8/29/14 11:12,35,M,1,0,United States,OR,No,0,0,0,25-Jun,Yes,Yes,0,0,0,0,Don't know,0,No,No,No,0,No,No,0,No,NA
+8/29/14 11:19,28,F,0,1,United States,OH,No,1,1,1,26-100,Yes,Yes,0,0,0,0,Don't know,1,Yes,No,Some of them,0,No,Maybe,0,No,NA
+8/29/14 11:20,33,M,1,0,United States,NY,No,0,0,0,25-Jun,Yes,Yes,1,0,0,1,Yes,0,No,No,Some of them,1,No,No,1,No,NA
+8/29/14 11:20,40,M,1,0,United States,WI,No,1,1,1,More than 1000,Yes,Yes,1,1,0,1,Don't know,0,Yes,No,No,0,No,Maybe,0,No,NA
+8/29/14 11:20,26,M,1,0,United States,WA,No,0,1,1,25-Jun,No,Yes,1,1,0,0,Yes,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/29/14 11:32,26,F,0,1,United States,WA,No,1,1,1,More than 1000,No,Yes,1,1,0,0,Don't know,0,No,No,Some of them,1,No,Maybe,0,Yes,I should note one of the places my employer fails with regards to mental health is that the company-paid health insurance policy does not cover trans healthcare needs.
+8/29/14 11:36,36,M,1,0,United States,FL,No,0,0,0,5-Jan,Yes,Yes,0,0,0,0,Don't know,1,No,No,Some of them,0,No,No,0,No,NA
+8/29/14 11:40,39,M,1,0,United States,WA,No,1,1,1,500-1000,No,Yes,1,1,0,0,Yes,1,No,No,Some of them,1,No,No,1,No,NA
+8/29/14 11:43,27,M,1,0,United States,CA,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,1,Maybe,Maybe,0,No,NA
+8/29/14 11:44,33,M,1,0,United States,FL,Yes,0,0,0,25-Jun,Yes,Yes,0,0,0,0,No,1,Maybe,No,Some of them,1,No,Maybe,1,No,NA
+8/29/14 11:53,28,F,0,1,United States,OR,No,0,1,1,25-Jun,No,Yes,1,1,0,1,Yes,1,No,No,Some of them,0,No,Yes,0,No,NA
+8/29/14 11:56,27,M,1,0,United States,CA,No,0,1,1,100-500,No,Yes,0,0,0,0,Yes,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/29/14 12:00,44,M,1,0,United States,FL,Yes,0,0,0,5-Jan,Yes,Yes,0,0,0,0,Yes,0,No,No,No,0,No,No,0,No,NA
+8/29/14 12:08,25,M,1,0,United States,UT,No,0,1,1,25-Jun,Yes,Yes,0,0,0,0,Don't know,1,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/29/14 12:26,34,M,1,0,United States,NJ,No,0,0,0,25-Jun,Yes,Yes,1,0,0,0,Don't know,1,Maybe,Maybe,No,0,No,Maybe,0,No,NA
+8/29/14 12:54,39,F,0,1,United States,OH,No,0,1,1,25-Jun,Yes,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,Maybe,0,No,I've never heard of a workplace that would actually allow you to call off for mental health reasons. So many places require a doctor's note for calling off sick. It's all set up to make you feel worse if you can't just suck it up. Thanks for working to change this!!!
+8/29/14 13:17,43,M,1,0,United States,OH,No,0,0,1,More than 1000,Yes,Yes,1,0,0,1,Don't know,0,Maybe,No,No,0,No,No,0,No,NA
+8/29/14 13:23,41,M,1,0,United States,IL,No,0,0,1,More than 1000,No,Yes,1,1,1,1,Don't know,0,Maybe,Maybe,Some of them,0,No,No,1,Yes,NA
+8/29/14 14:04,31,M,1,0,United States,CA,No,0,1,1,100-500,No,Yes,1,1,0,0,Don't know,1,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/29/14 14:09,40,M,1,0,United States,WA,No,1,1,1,More than 1000,No,Yes,1,1,1,1,Yes,0,Yes,Yes,No,0,No,Maybe,0,Yes,NA
+8/29/14 14:31,43,M,1,0,United States,VA,Yes,1,1,1,5-Jan,Yes,Yes,1,0,0,0,Don't know,0,Maybe,Maybe,Some of them,0,No,Maybe,0,No,This survey was tough as a self-employed individual. You may wish to discard responses from self employed people for much of your analysis.
+8/29/14 14:51,27,F,0,1,United States,WA,No,1,1,1,More than 1000,No,Yes,1,1,1,1,Yes,0,Maybe,No,Yes,0,No,Maybe,0,Yes,I answered based on previous job at large technical company where I was pushed out of my role within 3 months of disclosing diagnosis.I had been struggling for 3 months prior to disclosure and was incredibly relieved when finally diagnosed. Growing up in a family open about mental health and also at the end of my rope I immediately shared with management what was going on. I requested a temporary reduced workload so I could reduce anxiety. (At time I didn't know it was anxiety as took me a year to accept that the (to me) deserved stress was anxiety caused by my core diagnosis.) When disclosing I didn't deeply understand details of the state of my mental health; I simply knew I was so stressed out by having been unable to get myself to do work in three months that I couldn't juggle all that was currently on my plate.It was at this point my direct manager and I began an almost daily struggle. After working on a single project and making progress (compared to 3 months before diagnosis when management didn't even know how bad I was doing) I requested increasing my workload. This was never granted; boss said I hadn't proved myself and implied I could not be trusted.Two huge issues stick out to me from that experience:1) Company assumes things would be better and back to 100% within months. They did not understand what one goes through when figuring out meds: things at times got worse. They did not understand how long it takes until meds are figured out: mine took two years. They most certainly would not truly understand why to this day four years later despite being stable I'm in counseling every other week in addition to being on meds. Rather than supporting that it would be seen as oh I'm sorry. I was a problem to my manager because he didn't see improvements each week.2) Accomodations.- There was no option for me to reduce work temporarily to part-time (too complicated). Instead they pushed me to take disability leave. I told them that wouldn't help; they told me to double-check with care providers. That required me to see a psychologist unnecessarily as psychologist said I didn't qualify for leave. (Expensive unnecessary appointment).- The assistance I needed the most at work was understanding: I was open but my manager told me to not tell my co-worker assigned to support me. That was disasterous for colleague's stress/frustration levels. He knew something was up but was barred from asking and I was implied it was better to keep my mouth shut.- Accommodations weren't understood by even Benefits as they're not trained in mental health nor do they have people come in to assess how they're doing in supporting those with mental health issues. Should be no different than people coming in to assess for physical accessibility of the workplace. When in a meeting with my manager supervised by HR I shouldn't feel like I'm asking too much of manager when requesting he put the negative critiques on the back burner and help me figure out whether I'm doing anything right. That this didn't stop him from coming into my office that same day and putting on my dick hat to yell at me for something that wasn't even my fault (he had brought in co-worker for this yelling and turned to finish yelling at this person): FUCKING UNACCEPTABLE.While I will never return to that company and as such took the severance package I will NEVER agree with their legal reason for being unable to do the job: me being medically disqualified from this role. I was too expensive in the short term for them; I'm not worth the cost.
+8/29/14 14:59,37,F,0,1,United States,NJ,No,1,1,1,26-100,Yes,Yes,1,1,0,0,Don't know,0,Yes,Maybe,No,0,No,Maybe,0,No,If a man in tech is afraid of speaking up about these things it is even worse for women in tech who are already fearful of and fighting against the stigma of incompetence.  On the other hand if a female in tech does not commiserate with her male coworkers on mental health problems she will no longer be seen as a team player. It is really a catch-22 for women in STEM.
+8/29/14 15:59,25,M,1,0,United States,UT,No,1,1,1,5-Jan,No,Yes,0,1,0,0,Yes,1,Maybe,No,Yes,1,No,Maybe,0,No,NA
+8/29/14 17:04,32,M,1,0,United States,IN,No,0,1,1,26-100,No,Yes,1,1,1,0,Yes,0,No,No,Some of them,1,No,Maybe,0,No,NA
+8/29/14 17:04,28,F,0,1,United States,CA,No,1,1,1,100-500,No,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,1,No,NA
+8/29/14 17:35,32,M,1,0,United States,TN,No,1,1,1,100-500,No,Yes,0,1,0,0,Don't know,0,Yes,No,Yes,1,No,Yes,0,No,NA
+8/29/14 17:54,25,M,1,0,United States,WA,No,0,1,1,More than 1000,No,Yes,1,1,1,0,Yes,0,Yes,No,No,0,No,No,1,No,NA
+8/29/14 18:33,37,M,1,0,United States,UT,No,0,1,1,100-500,No,Yes,1,0,0,1,Yes,1,No,No,No,1,No,No,1,No,NA
+8/29/14 19:32,24,M,1,0,United States,WI,No,1,1,1,25-Jun,Yes,Yes,0,0,0,0,Don't know,1,No,No,Yes,1,Maybe,Yes,1,No,NA
+8/29/14 19:34,40,M,1,0,United States,WA,No,1,1,1,More than 1000,No,Yes,1,0,1,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,Yes,Really manager dependent. I have had managers who work with my strengths and others who want my to work on my weaknesses which are directly tied to my mental issues. 
+8/29/14 20:53,43,M,1,0,United States,NY,No,0,0,0,500-1000,No,Yes,0,0,0,0,Don't know,0,No,No,Yes,0,No,No,1,No,NA
+8/29/14 21:26,29,M,1,0,United States,NY,No,0,0,0,25-Jun,Yes,Yes,1,0,0,1,Don't know,0,Maybe,No,Some of them,1,Maybe,Yes,0,No,NA
+8/29/14 21:28,26,M,1,0,United States,OH,No,1,0,1,100-500,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+8/29/14 22:08,35,F,0,1,United States,WA,No,1,0,1,25-Jun,Yes,Yes,0,0,0,0,Don't know,1,No,No,Yes,0,No,No,1,No,NA
+8/29/14 23:51,45,M,1,0,United States,CA,No,0,0,0,25-Jun,Yes,Yes,1,0,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,Maybe,0,No,NA
+8/30/14 0:09,25,M,1,0,United States,SC,No,0,1,1,25-Jun,Yes,Yes,0,1,0,0,Don't know,1,Maybe,No,No,0,No,Maybe,0,No,NA
+8/30/14 5:47,33,F,0,1,United States,CA,No,0,1,1,More than 1000,No,Yes,1,1,0,0,Don't know,0,Yes,No,No,0,No,Maybe,0,No,NA
+8/30/14 13:23,25,M,1,0,United States,MN,No,1,1,1,5-Jan,Yes,Yes,0,0,0,0,Don't know,1,No,No,Yes,1,Maybe,Yes,0,No,I was (wrongly) diagnosed clinically depressed at 12 then bipolar I at 15 and medicated for a decade until decided myself to go drug free. Since then I've never been happier. Insomnia and my insatiablility for learning and programming have always had a symbiotic  relationship.It might also bear mentioning that I'm self-employed in addition to my more traditional day job.
+8/30/14 15:57,46,M,1,0,United States,PA,No,1,1,1,25-Jun,No,Yes,0,1,0,0,Don't know,0,Yes,Maybe,No,0,No,Maybe,0,No,NA
+8/30/14 16:38,34,M,1,0,United States,VT,No,0,0,0,5-Jan,Yes,Yes,0,1,0,0,Don't know,0,Yes,Yes,No,0,No,No,0,No,My employer currently does not offer any health insurance I have to get that on my own.  However at past positions I have had health insurance but no one ever mentioned mental health issues nor would I wish to discuss those with my co-workers bosses etc for fear of negative reception.
+8/30/14 20:19,35,M,1,0,United States,NY,No,0,0,0,25-Jun,No,Yes,0,0,0,0,Yes,0,No,No,No,0,No,No,1,No,Mental health at work is not an issue if you leave work problems at work that may be easier for those of us not in a support role.
+8/30/14 20:46,20,F,0,1,United States,NY,No,0,1,1,26-100,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,0,Maybe,Maybe,0,No,NA
+8/31/14 16:48,36,F,0,1,United States,TN,No,1,1,1,More than 1000,Yes,Yes,1,1,0,0,Yes,1,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+9/1/14 12:45,26,F,0,1,United States,NY,No,1,0,1,26-100,Yes,Yes,0,0,0,0,Don't know,0,Maybe,No,No,0,No,No,0,No,NA
+9/1/14 22:58,32,M,1,0,United States,NC,No,0,0,1,25-Jun,No,Yes,1,0,0,0,Don't know,0,Maybe,No,No,0,No,Maybe,0,No,NA
+9/2/14 3:13,32,M,1,0,United States,CA,No,0,1,1,More than 1000,No,Yes,1,1,1,1,Yes,0,Maybe,Maybe,Some of them,0,No,No,0,Yes,NA
+9/2/14 20:57,30,M,1,0,United States,MN,No,1,1,1,25-Jun,No,Yes,0,1,0,0,Don't know,0,No,No,No,0,No,No,0,No,People have often felt uncomfortable with my story while most of it happened a decade ago. I used to be quite open about it and have since kept it quietly tucked away. While I sometimes have waves of depression I have learned to cope with the affects.
+9/3/14 13:09,29,M,1,0,United States,NC,No,0,1,1,26-100,No,Yes,1,1,0,0,Don't know,0,Yes,No,Some of them,0,No,Maybe,0,No,NA
+9/4/14 17:38,26,M,1,0,United States,TX,No,1,1,1,25-Jun,Yes,Yes,0,0,0,0,Don't know,1,Maybe,No,Some of them,0,Maybe,Maybe,0,No,NA
+9/5/14 14:15,32,M,1,0,United States,CA,No,1,0,1,More than 1000,No,Yes,1,0,1,0,Don't know,0,Maybe,No,Yes,1,No,No,0,No,NA
+9/8/14 21:30,32,F,0,1,United States,PA,No,0,1,1,More than 1000,No,Yes,1,1,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+9/9/14 13:49,29,M,1,0,United States,IL,No,0,0,0,More than 1000,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,1,Maybe,Yes,0,No,NA
+9/12/14 19:18,40,F,0,1,United States,MN,No,1,1,1,26-100,No,Yes,1,1,0,1,Yes,1,No,No,Yes,1,No,Maybe,1,Yes,NA
+9/14/14 20:50,38,M,1,0,United States,NY,No,1,0,0,25-Jun,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,No,0,Yes,NA
+9/20/14 13:51,26,F,0,1,United States,MI,No,1,1,1,100-500,No,Yes,1,0,0,0,Don't know,0,Maybe,Maybe,No,0,No,Maybe,0,No,NA
+9/23/14 20:05,29,M,1,0,United States,OH,No,0,0,0,26-100,No,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,No,Yes,0,Yes,NA
+9/26/14 21:25,32,F,0,1,United States,NY,No,0,1,1,26-100,No,Yes,1,1,0,0,Yes,0,Maybe,Maybe,Some of them,0,No,No,0,No,NA
+10/5/14 21:16,35,F,0,1,United States,IN,No,1,1,1,5-Jan,Yes,Yes,0,0,0,0,Yes,0,Maybe,Maybe,Some of them,0,No,No,1,No,NA
+10/9/14 11:14,28,F,0,1,United States,VA,No,0,1,1,25-Jun,No,Yes,0,1,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,No,0,No,NA
+11/6/14 11:24,56,F,0,1,United States,OR,Yes,0,0,1,5-Jan,Yes,Yes,0,0,0,0,Don't know,0,Maybe,Maybe,No,0,No,No,0,No,I'm self-employed on contract with small start-up. Covered through spouse's insurance.
+11/16/14 8:42,38,M,1,0,United States,AL,No,1,1,1,26-100,Yes,Yes,1,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+12/15/14 0:43,40,M,1,0,United States,AL,No,1,1,1,25-Jun,No,Yes,1,1,0,0,Yes,0,Maybe,No,Some of them,0,No,No,1,No,NA
+1/3/15 3:38,44,M,1,0,United States,OH,No,1,1,1,100-500,No,Yes,1,1,0,1,Yes,0,Maybe,No,Some of them,0,No,No,0,No,My mental health issues were the direct result of the trauma from childhood abuse. Most (all?) of the Prompt-sponsored/related presentations I've seen have been about congenital mental health issues that are treatable with continued medication. For me medication only provided temporary assistance. I needed years of (continuing) therapy to deal with PTSD and related disorders (depression anxiety suicidal tendencies others). I haven't seen many in our community discussing trauma-related mental health issues but they are just as real and just as debilitating.
+2/21/15 4:41,32,M,1,0,United States,TX,No,0,1,1,26-100,Yes,Yes,1,0,0,0,Don't know,0,Yes,Maybe,Some of them,0,No,No,0,No,NA
+2/21/15 5:11,28,F,0,1,United States,TX,No,0,1,1,25-Jun,No,Yes,1,0,0,0,Don't know,1,Yes,Yes,Some of them,0,No,No,0,Yes,NA
+2/21/15 8:21,23,M,1,0,United States,TX,No,0,1,1,5-Jan,No,Yes,0,1,0,0,No,1,Maybe,Maybe,Some of them,1,No,No,0,No,NA
+2/21/15 9:22,33,M,1,0,United States,FL,No,0,1,1,26-100,Yes,Yes,1,1,0,0,Yes,0,Maybe,No,Some of them,0,No,Maybe,0,No,NA
+2/21/15 9:48,38,M,1,0,United States,TX,No,0,1,1,More than 1000,Yes,Yes,1,0,1,1,Yes,1,No,No,Yes,1,No,No,0,No,I openly discuss my mental health struggles. I have found that doing so encourages people who also struggle to seek treatment. I'm willing to risk losing the support of people who don't understand if it helps those who understand all too well.
+2/21/15 10:00,46,M,1,0,United States,CA,No,1,1,1,26-100,No,Yes,0,0,0,0,Don't know,0,Maybe,No,Some of them,0,No,No,0,No,NA
+2/21/15 10:45,46,M,1,0,United States,MD,No,1,1,1,100-500,Yes,Yes,0,0,0,0,Don't know,0,No,No,Some of them,1,Yes,Yes,0,No,Just starting a new job hence the numerous I don't know selections.
+2/21/15 18:59,25,M,1,0,United States,MN,No,1,1,1,26-100,No,Yes,0,1,0,0,Don't know,1,Yes,No,Some of them,0,No,Maybe,0,No,NA
+2/24/15 10:32,60,M,1,0,United States,CA,No,0,1,1,More than 1000,Yes,Yes,0,0,1,0,Don't know,1,Maybe,Maybe,Some of them,0,No,Maybe,0,No,NA
+5/5/15 14:22,43,F,0,1,United States,FL,No,1,1,1,More than 1000,Yes,Yes,1,1,0,1,Don't know,0,No,No,Some of them,1,No,No,0,No,NA
+5/6/15 16:55,32,M,1,0,United States,OR,No,0,0,0,100-500,No,Yes,1,0,0,1,Don't know,1,No,No,No,0,Maybe,Yes,0,No,NA
+6/25/15 12:24,41,F,0,1,United States,WA,No,1,1,1,26-100,No,Yes,1,0,0,0,Don't know,0,Yes,Maybe,No,0,No,No,0,No,NA
+7/22/15 18:57,30,M,1,0,United States,CA,No,1,1,1,26-100,No,Yes,1,1,0,0,Yes,1,No,No,Yes,1,Maybe,Maybe,1,No,Bipolar disorder 
+7/27/15 23:25,30,M,1,0,United States,CA,Yes,1,1,1,26-100,No,Yes,1,0,1,1,Don't know,0,No,No,Some of them,1,Maybe,Maybe,1,No,NA
+8/20/15 16:52,29,M,1,0,United States,NC,No,1,1,1,100-500,Yes,Yes,1,1,1,0,Yes,0,Yes,No,Some of them,0,No,Maybe,0,No,NA
+9/26/15 1:07,32,M,1,0,United States,IL,No,1,1,1,26-100,Yes,Yes,1,1,0,0,Yes,0,No,No,Some of them,1,No,No,1,No,NA
+11/7/15 12:36,34,M,1,0,United States,CA,No,1,1,1,More than 1000,No,Yes,1,1,0,0,Don't know,0,Yes,Yes,No,0,No,No,0,No,NA
+11/30/15 21:25,46,F,0,1,United States,NC,No,0,0,0,100-500,Yes,Yes,0,1,0,0,Don't know,0,Yes,No,No,0,No,No,0,No,NA
